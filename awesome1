@@ -1,0 +1,5049 @@
+[
+  {
+    "name": "Princeton University",
+    "location": "Princeton, New Jersey",
+    "founding_date": 1746,
+    "website": "https://www.princeton.edu/",
+    "community_reviews": {
+      "rating": "4.5/5",
+      "text": "Students praise the rigorous academics, tight-knit residential college system, and beautiful campus. The 'work hard, play hard' culture is prominent, with a strong focus on undergraduate education and research opportunities."
+    },
+    "trusted_source_reviews": {
+      "rating": "5.0/5",
+      "text": "Consistently ranked #1 nationally, Princeton is renowned for its world-class faculty, generous financial aid, and commitment to undergraduate teaching. Strengths include engineering, public policy, and the humanities."
+    },
+    "average_sticker_price": "$86,700",
+    "average_price_after_aid": "$11,154",
+    "distance_from_charlotte_nc": {
+      "miles": 595,
+      "hours_by_car": 9.5
+    },
+    "distance_from_nearest_big_city": {
+      "city": "New York, NY",
+      "miles": 51,
+      "hours_by_car": 1.5
+    },
+    "has_business_school": false,
+    "attractions_near_college": [
+      "Princeton University Art Museum",
+      "McCarter Theatre Center",
+      "Delaware and Raritan Canal State Park",
+      "Grounds For Sculpture",
+      "New York City attractions",
+      "Philadelphia Museum of Art",
+      "Liberty State Park",
+      "Six Flags Great Adventure"
+    ],
+    "map_embed_link": "https://maps.google.com/maps?q=Princeton+University&t=&z=13&ie=UTF8&iwloc=&output=embed",
+    "descriptor_tags": [
+      "ivy-league",
+      "highly-selective",
+      "private-university",
+      "suburban-campus",
+      "research-heavy",
+      "generous-financial-aid",
+      "beautiful-campus",
+      "prestigious"
+    ],
+    "questbridge_partner": true,
+    "logo_link": "https://logo.clearbit.com/princeton.edu"
+  },
+  {
+    "name": "Massachusetts Institute of Technology",
+    "location": "Cambridge, Massachusetts",
+    "founding_date": 1861,
+    "website": "https://web.mit.edu/",
+    "community_reviews": {
+      "rating": "4.6/5",
+      "text": "Known for its intense, fast-paced, and collaborative environment. Students are brilliant and passionate about STEM, often engaging in groundbreaking research and innovative projects from day one."
+    },
+    "trusted_source_reviews": {
+      "rating": "5.0/5",
+      "text": "A global leader in science and technology education, MIT excels in engineering, computer science, and economics. Its hands-on learning approach and entrepreneurial spirit are unparalleled."
+    },
+    "average_sticker_price": "$82,730",
+    "average_price_after_aid": "$18,312",
+    "distance_from_charlotte_nc": {
+      "miles": 840,
+      "hours_by_car": 13.5
+    },
+    "distance_from_nearest_big_city": {
+      "city": "Boston, MA",
+      "miles": 2,
+      "hours_by_car": 0.2
+    },
+    "has_business_school": true,
+    "attractions_near_college": [
+      "MIT Museum",
+      "Fenway Park",
+      "Museum of Fine Arts, Boston",
+      "Freedom Trail",
+      "Faneuil Hall Marketplace",
+      "New England Aquarium",
+      "Isabella Stewart Gardner Museum",
+      "Harvard University campus"
+    ],
+    "map_embed_link": "https://maps.google.com/maps?q=Massachusetts+Institute+of+Technology&t=&z=13&ie=UTF8&iwloc=&output=embed",
+    "descriptor_tags": [
+      "stem-focused",
+      "highly-selective",
+      "private-university",
+      "urban-campus",
+      "research-heavy",
+      "engineering-powerhouse",
+      "need-blind-admissions",
+      "technical-institute"
+    ],
+    "questbridge_partner": true,
+    "logo_link": "https://logo.clearbit.com/mit.edu"
+  },
+  {
+    "name": "Harvard University",
+    "location": "Cambridge, Massachusetts",
+    "founding_date": 1636,
+    "website": "https://www.harvard.edu/",
+    "community_reviews": {
+      "rating": "4.4/5",
+      "text": "Students highlight the incredible resources, from world-class libraries to influential guest speakers. The social scene is diverse, with a club for every interest, though academics remain the primary focus."
+    },
+    "trusted_source_reviews": {
+      "rating": "5.0/5",
+      "text": "As the oldest institution of higher learning in the US, Harvard's prestige is unmatched. It boasts top-ranked programs across nearly every discipline, including law, medicine, business, and liberal arts."
+    },
+    "average_sticker_price": "$82,880",
+    "average_price_after_aid": "$19,411",
+    "distance_from_charlotte_nc": {
+      "miles": 840,
+      "hours_by_car": 13.5
+    },
+    "distance_from_nearest_big_city": {
+      "city": "Boston, MA",
+      "miles": 3,
+      "hours_by_car": 0.25
+    },
+    "has_business_school": true,
+    "attractions_near_college": [
+      "Harvard Museum of Natural History",
+      "Fenway Park",
+      "Museum of Fine Arts, Boston",
+      "Freedom Trail",
+      "Faneuil Hall Marketplace",
+      "MIT campus",
+      "Charles River Esplanade",
+      "Isabella Stewart Gardner Museum"
+    ],
+    "map_embed_link": "https://maps.google.com/maps?q=Harvard+University&t=&z=13&ie=UTF8&iwloc=&output=embed",
+    "descriptor_tags": [
+      "ivy-league",
+      "prestigious",
+      "private-university",
+      "urban-campus",
+      "research-heavy",
+      "generous-financial-aid",
+      "historic-architecture",
+      "highly-selective"
+    ],
+    "questbridge_partner": false,
+    "logo_link": "https://logo.clearbit.com/harvard.edu"
+  },
+  {
+    "name": "Stanford University",
+    "location": "Stanford, California",
+    "founding_date": 1885,
+    "website": "https://www.stanford.edu/",
+    "community_reviews": {
+      "rating": "4.7/5",
+      "text": "Described as a 'utopian bubble,' students love the beautiful, sunny campus and the collaborative, optimistic culture. There's a strong emphasis on entrepreneurship, technology, and interdisciplinary studies."
+    },
+    "trusted_source_reviews": {
+      "rating": "5.0/5",
+      "text": "A top-tier research institution with a deep connection to Silicon Valley. Stanford is a leader in computer science, engineering, and business, fostering innovation and a 'change the world' mindset."
+    },
+    "average_sticker_price": "$87,833",
+    "average_price_after_aid": "$17,357",
+    "distance_from_charlotte_nc": {
+      "miles": 2700,
+      "hours_by_car": 40.0
+    },
+    "distance_from_nearest_big_city": {
+      "city": "San Jose, CA",
+      "miles": 20,
+      "hours_by_car": 0.4
+    },
+    "has_business_school": true,
+    "attractions_near_college": [
+      "Cantor Arts Center",
+      "Golden Gate Bridge",
+      "Alcatraz Island",
+      "Redwood National and State Parks",
+      "Big Sur coastline",
+      "Silicon Valley tech campuses (Google, Apple)",
+      "Santa Cruz Beach Boardwalk",
+      "Yosemite National Park (day trip)"
+    ],
+    "map_embed_link": "https://maps.google.com/maps?q=Stanford+University&t=&z=13&ie=UTF8&iwloc=&output=embed",
+    "descriptor_tags": [
+      "highly-selective",
+      "prestigious",
+      "private-university",
+      "suburban-campus",
+      "research-heavy",
+      "stem-focused",
+      "west-coast-vibe",
+      "beautiful-campus"
+    ],
+    "questbridge_partner": true,
+    "logo_link": "https://logo.clearbit.com/stanford.edu"
+  },
+  {
+    "name": "Yale University",
+    "location": "New Haven, Connecticut",
+    "founding_date": 1701,
+    "website": "https://www.yale.edu/",
+    "community_reviews": {
+      "rating": "4.3/5",
+      "text": "Students value the residential college system for creating strong communities. The campus culture is known for being collaborative, quirky, and politically active, with a vibrant arts and humanities scene."
+    },
+    "trusted_source_reviews": {
+      "rating": "4.9/5",
+      "text": "An Ivy League institution with exceptional programs in drama, art, and law. Yale is known for its Gothic architecture, extensive libraries, and a strong commitment to the liberal arts."
+    },
+    "average_sticker_price": "$87,705",
+    "average_price_after_aid": "$18,048",
+    "distance_from_charlotte_nc": {
+      "miles": 700,
+      "hours_by_car": 11.0
+    },
+    "distance_from_nearest_big_city": {
+      "city": "New York, NY",
+      "miles": 80,
+      "hours_by_car": 1.7
+    },
+    "has_business_school": true,
+    "attractions_near_college": [
+      "Yale University Art Gallery",
+      "Yale Peabody Museum",
+      "Shubert Theatre",
+      "East Rock Park",
+      "Louis' Lunch (birthplace of the hamburger)",
+      "Mystic Seaport Museum",
+      "Thimble Islands",
+      "New York City"
+    ],
+    "map_embed_link": "https://maps.google.com/maps?q=Yale+University&t=&z=13&ie=UTF8&iwloc=&output=embed",
+    "descriptor_tags": [
+      "ivy-league",
+      "highly-selective",
+      "private-university",
+      "urban-campus",
+      "artsy-vibe",
+      "humanities-strong",
+      "historic-architecture",
+      "politically-active"
+    ],
+    "questbridge_partner": true,
+    "logo_link": "https://logo.clearbit.com/yale.edu"
+  },
+  {
+    "name": "University of Pennsylvania",
+    "location": "Philadelphia, Pennsylvania",
+    "founding_date": 1740,
+    "website": "https://www.upenn.edu/",
+    "community_reviews": {
+      "rating": "4.4/5",
+      "text": "Known for its 'work hard, play hard' ethos, Penn has a pre-professional and socially vibrant culture. Students appreciate the blend of Ivy League academics with a practical, career-oriented focus."
+    },
+    "trusted_source_reviews": {
+      "rating": "4.8/5",
+      "text": "Boasts the world-renowned Wharton School of Business. Penn is strong in finance, nursing, and interdisciplinary studies, encouraging students to combine interests across its four undergraduate schools."
+    },
+    "average_sticker_price": "$89,034",
+    "average_price_after_aid": "$24,167",
+    "distance_from_charlotte_nc": {
+      "miles": 530,
+      "hours_by_car": 8.5
+    },
+    "distance_from_nearest_big_city": {
+      "city": "Philadelphia, PA",
+      "miles": 0,
+      "hours_by_car": 0.0
+    },
+    "has_business_school": true,
+    "attractions_near_college": [
+      "Philadelphia Museum of Art",
+      "Independence Hall",
+      "Liberty Bell",
+      "Reading Terminal Market",
+      "Barnes Foundation",
+      "Penn Museum",
+      "Schuylkill River Trail",
+      "Citizens Bank Park"
+    ],
+    "map_embed_link": "https://maps.google.com/maps?q=University+of+Pennsylvania&t=&z=13&ie=UTF8&iwloc=&output=embed",
+    "descriptor_tags": [
+      "ivy-league",
+      "urban-campus",
+      "private-university",
+      "business-focused",
+      "work-hard-play-hard",
+      "research-heavy",
+      "highly-selective",
+      "pre-med-track"
+    ],
+    "questbridge_partner": true,
+    "logo_link": "https://logo.clearbit.com/upenn.edu"
+  },
+  {
+    "name": "California Institute of Technology",
+    "location": "Pasadena, California",
+    "founding_date": 1891,
+    "website": "https://www.caltech.edu/",
+    "community_reviews": {
+      "rating": "4.2/5",
+      "text": "Incredibly intense and rigorous, Caltech attracts a small, tight-knit community of brilliant and quirky students. The focus is purely on STEM, with an honor code that fosters a highly collaborative environment."
+    },
+    "trusted_source_reviews": {
+      "rating": "4.9/5",
+      "text": "A world leader in science and engineering with an unparalleled faculty-to-student ratio. Caltech is known for its demanding curriculum, significant research output, and management of NASA's Jet Propulsion Laboratory (JPL)."
+    },
+    "average_sticker_price": "$89,760",
+    "average_price_after_aid": "$22,571",
+    "distance_from_charlotte_nc": {
+      "miles": 2400,
+      "hours_by_car": 35.0
+    },
+    "distance_from_nearest_big_city": {
+      "city": "Los Angeles, CA",
+      "miles": 11,
+      "hours_by_car": 0.4
+    },
+    "has_business_school": false,
+    "attractions_near_college": [
+      "Jet Propulsion Laboratory (JPL)",
+      "The Huntington Library, Art Museum, and Botanical Gardens",
+      "Norton Simon Museum",
+      "Rose Bowl Stadium",
+      "Griffith Observatory",
+      "Hollywood Walk of Fame",
+      "Santa Monica Pier",
+      "Universal Studios Hollywood"
+    ],
+    "map_embed_link": "https://maps.google.com/maps?q=California+Institute+of+Technology&t=&z=13&ie=UTF8&iwloc=&output=embed",
+    "descriptor_tags": [
+      "technical-institute",
+      "stem-focused",
+      "small-school",
+      "private-university",
+      "research-heavy",
+      "highly-selective",
+      "suburban-campus",
+      "quirky-students"
+    ],
+    "questbridge_partner": true,
+    "logo_link": "https://logo.clearbit.com/caltech.edu"
+  },
+  {
+    "name": "Duke University",
+    "location": "Durham, North Carolina",
+    "founding_date": 1838,
+    "website": "https://duke.edu/",
+    "community_reviews": {
+      "rating": "4.5/5",
+      "text": "Students rave about the 'work hard, play hard' culture, school spirit (especially for basketball), and beautiful Gothic campus. The environment is collaborative yet driven, with abundant research opportunities."
+    },
+    "trusted_source_reviews": {
+      "rating": "4.8/5",
+      "text": "A top research university in the South, Duke is known for its excellent medical school, Fuqua School of Business, and strong programs in public policy and engineering. Its campus is famously beautiful."
+    },
+    "average_sticker_price": "$88,140",
+    "average_price_after_aid": "$21,122",
+    "distance_from_charlotte_nc": {
+      "miles": 142,
+      "hours_by_car": 2.2
+    },
+    "distance_from_nearest_big_city": {
+      "city": "Raleigh, NC",
+      "miles": 25,
+      "hours_by_car": 0.5
+    },
+    "has_business_school": true,
+    "attractions_near_college": [
+      "Duke Chapel",
+      "Sarah P. Duke Gardens",
+      "Cameron Indoor Stadium",
+      "Museum of Life and Science",
+      "Durham Performing Arts Center (DPAC)",
+      "UNC Chapel Hill campus",
+      "North Carolina Museum of Art (Raleigh)",
+      "Research Triangle Park"
+    ],
+    "map_embed_link": "https://maps.google.com/maps?q=Duke+University&t=&z=13&ie=UTF8&iwloc=&output=embed",
+    "descriptor_tags": [
+      "private-university",
+      "highly-selective",
+      "research-heavy",
+      "sports-culture",
+      "suburban-campus",
+      "beautiful-campus",
+      "work-hard-play-hard",
+      "southern-charm"
+    ],
+    "questbridge_partner": true,
+    "logo_link": "https://logo.clearbit.com/duke.edu"
+  },
+  {
+    "name": "Brown University",
+    "location": "Providence, Rhode Island",
+    "founding_date": 1764,
+    "website": "https://www.brown.edu/",
+    "community_reviews": {
+      "rating": "4.3/5",
+      "text": "Celebrated for its Open Curriculum, which allows students complete freedom in course selection. The culture is described as liberal, creative, and collaborative, attracting intellectually curious and independent students."
+    },
+    "trusted_source_reviews": {
+      "rating": "4.7/5",
+      "text": "An Ivy League school distinguished by its unique Open Curriculum. Brown fosters a student-centric learning environment and is strong in humanities, social sciences, and computer science."
+    },
+    "average_sticker_price": "$89,246",
+    "average_price_after_aid": "$26,711",
+    "distance_from_charlotte_nc": {
+      "miles": 800,
+      "hours_by_car": 12.5
+    },
+    "distance_from_nearest_big_city": {
+      "city": "Boston, MA",
+      "miles": 50,
+      "hours_by_car": 1.2
+    },
+    "has_business_school": false,
+    "attractions_near_college": [
+      "RISD Museum",
+      "WaterFire Providence",
+      "Benefit Street's 'Mile of History'",
+      "Providence Performing Arts Center",
+      "Newport Mansions",
+      "Thayer Street shopping and dining",
+      "Boston city attractions",
+      "Cape Cod beaches"
+    ],
+    "map_embed_link": "https://maps.google.com/maps?q=Brown+University&t=&z=13&ie=UTF8&iwloc=&output=embed",
+    "descriptor_tags": [
+      "ivy-league",
+      "private-university",
+      "urban-campus",
+      "liberal-arts",
+      "politically-liberal",
+      "collaborative-environment",
+      "artsy-vibe",
+      "highly-selective"
+    ],
+    "questbridge_partner": true,
+    "logo_link": "https://logo.clearbit.com/brown.edu"
+  },
+  {
+    "name": "Johns Hopkins University",
+    "location": "Baltimore, Maryland",
+    "founding_date": 1876,
+    "website": "https://www.jhu.edu/",
+    "community_reviews": {
+      "rating": "4.1/5",
+      "text": "Students describe the atmosphere as academically intense and competitive, especially for pre-meds. The university's vast research opportunities are a major draw, attracting driven and focused individuals."
+    },
+    "trusted_source_reviews": {
+      "rating": "4.8/5",
+      "text": "The nation's first research university, Johns Hopkins is a powerhouse in medicine, public health, and international studies. It receives more federal research funding than any other university."
+    },
+    "average_sticker_price": "$86,410",
+    "average_price_after_aid": "$25,432",
+    "distance_from_charlotte_nc": {
+      "miles": 440,
+      "hours_by_car": 7.0
+    },
+    "distance_from_nearest_big_city": {
+      "city": "Washington, D.C.",
+      "miles": 40,
+      "hours_by_car": 1.0
+    },
+    "has_business_school": true,
+    "attractions_near_college": [
+      "National Aquarium",
+      "Inner Harbor",
+      "Walters Art Museum",
+      "Fort McHenry",
+      "American Visionary Art Museum",
+      "Washington D.C. monuments and museums",
+      "Oriole Park at Camden Yards",
+      "Fells Point historic district"
+    ],
+    "map_embed_link": "https://maps.google.com/maps?q=Johns+Hopkins+University&t=&z=13&ie=UTF8&iwloc=&output=embed",
+    "descriptor_tags": [
+      "research-heavy",
+      "private-university",
+      "urban-campus",
+      "pre-med-track",
+      "highly-selective",
+      "competitive-academics",
+      "international-focus",
+      "state-of-the-art-labs"
+    ],
+    "questbridge_partner": true,
+    "logo_link": "https://logo.clearbit.com/jhu.edu"
+  },
+  {
+    "name": "Northwestern University",
+    "location": "Evanston, Illinois",
+    "founding_date": 1851,
+    "website": "https://www.northwestern.edu/",
+    "community_reviews": {
+      "rating": "4.2/5",
+      "text": "Students love the beautiful lakefront campus just outside of Chicago. The culture is collaborative but ambitious, with a quarter system that keeps the pace fast. Strong programs in journalism, theater, and engineering are highly praised."
+    },
+    "trusted_source_reviews": {
+      "rating": "4.8/5",
+      "text": "A top-tier private university with elite programs in journalism (Medill), theatre, and business (Kellogg). Its location offers a perfect balance of a traditional college town and access to a major city."
+    },
+    "average_sticker_price": "$90,834",
+    "average_price_after_aid": "$22,538",
+    "distance_from_charlotte_nc": {
+      "miles": 750,
+      "hours_by_car": 11.5
+    },
+    "distance_from_nearest_big_city": {
+      "city": "Chicago, IL",
+      "miles": 13,
+      "hours_by_car": 0.5
+    },
+    "has_business_school": true,
+    "attractions_near_college": [
+      "Lake Michigan shoreline",
+      "Art Institute of Chicago",
+      "Millennium Park (The Bean)",
+      "Navy Pier",
+      "Wrigley Field",
+      "Shedd Aquarium",
+      "The Second City comedy club",
+      "Magnificent Mile"
+    ],
+    "map_embed_link": "https://maps.google.com/maps?q=Northwestern+University&t=&z=13&ie=UTF8&iwloc=&output=embed",
+    "descriptor_tags": [
+      "private-university",
+      "highly-selective",
+      "suburban-campus",
+      "research-heavy",
+      "midwest-friendly",
+      "beautiful-campus",
+      "humanities-strong",
+      "artsy-vibe"
+    ],
+    "questbridge_partner": true,
+    "logo_link": "https://logo.clearbit.com/northwestern.edu"
+  },
+  {
+    "name": "Columbia University",
+    "location": "New York, New York",
+    "founding_date": 1754,
+    "website": "https://www.columbia.edu/",
+    "community_reviews": {
+      "rating": "4.0/5",
+      "text": "The quintessential urban university experience. Students are driven, ambitious, and take full advantage of NYC. The Core Curriculum is academically demanding but provides a strong classical foundation."
+    },
+    "trusted_source_reviews": {
+      "rating": "4.8/5",
+      "text": "An Ivy League university in the heart of NYC, offering unparalleled access to internships and cultural experiences. Columbia is renowned for its Core Curriculum, diverse student body, and top programs in nearly every field."
+    },
+    "average_sticker_price": "$90,432",
+    "average_price_after_aid": "$22,236",
+    "distance_from_charlotte_nc": {
+      "miles": 640,
+      "hours_by_car": 10.0
+    },
+    "distance_from_nearest_big_city": {
+      "city": "New York, NY",
+      "miles": 0,
+      "hours_by_car": 0.0
+    },
+    "has_business_school": true,
+    "attractions_near_college": [
+      "Central Park",
+      "The Metropolitan Museum of Art",
+      "Broadway Theatres",
+      "Times Square",
+      "Empire State Building",
+      "Statue of Liberty",
+      "Museum of Modern Art (MoMA)",
+      "Wall Street"
+    ],
+    "map_embed_link": "https://maps.google.com/maps?q=Columbia+University&t=&z=13&ie=UTF8&iwloc=&output=embed",
+    "descriptor_tags": [
+      "ivy-league",
+      "urban-campus",
+      "private-university",
+      "research-heavy",
+      "east-coast-energy",
+      "diverse-student-body",
+      "highly-selective",
+      "international-focus"
+    ],
+    "questbridge_partner": true,
+    "logo_link": "https://logo.clearbit.com/columbia.edu"
+  },
+  {
+    "name": "University of Chicago",
+    "location": "Chicago, Illinois",
+    "founding_date": 1890,
+    "website": "https://www.uchicago.edu/",
+    "community_reviews": {
+      "rating": "4.0/5",
+      "text": "Known for its rigorous intellectualism and quirky student body ('where fun goes to die' is the loving joke). Students are passionate about learning for its own sake and thrive on intense academic debate and the Core curriculum."
+    },
+    "trusted_source_reviews": {
+      "rating": "4.8/5",
+      "text": "A premier research institution famous for its demanding Core curriculum and influential schools of thought, particularly in economics and sociology. It fosters a culture of intense inquiry and intellectual freedom."
+    },
+    "average_sticker_price": "$91,899",
+    "average_price_after_aid": "$29,992",
+    "distance_from_charlotte_nc": {
+      "miles": 740,
+      "hours_by_car": 11.3
+    },
+    "distance_from_nearest_big_city": {
+      "city": "Chicago, IL",
+      "miles": 0,
+      "hours_by_car": 0.0
+    },
+    "has_business_school": true,
+    "attractions_near_college": [
+      "Museum of Science and Industry",
+      "Art Institute of Chicago",
+      "Millennium Park",
+      "Shedd Aquarium",
+      "Hyde Park neighborhood",
+      "Frank Lloyd Wright's Robie House",
+      "Adler Planetarium",
+      "Navy Pier"
+    ],
+    "map_embed_link": "https://maps.google.com/maps?q=University+of+Chicago&t=&z=13&ie=UTF8&iwloc=&output=embed",
+    "descriptor_tags": [
+      "private-university",
+      "urban-campus",
+      "research-heavy",
+      "competitive-academics",
+      "quirky-students",
+      "midwest-friendly",
+      "humanities-strong",
+      "highly-selective"
+    ],
+    "questbridge_partner": true,
+    "logo_link": "https://logo.clearbit.com/uchicago.edu"
+  },
+  {
+    "name": "Cornell University",
+    "location": "Ithaca, New York",
+    "founding_date": 1865,
+    "website": "https://www.cornell.edu/",
+    "community_reviews": {
+      "rating": "4.3/5",
+      "text": "Students are drawn to the stunning natural beauty of the campus, with its gorges and waterfalls. The university is large and diverse, offering a wide array of programs. Academics are rigorous, and the weather is famously challenging."
+    },
+    "trusted_source_reviews": {
+      "rating": "4.7/5",
+      "text": "The most educationally diverse member of the Ivy League, with both private and state-supported colleges. Cornell is a leader in engineering, hotel administration, and agriculture."
+    },
+    "average_sticker_price": "$88,150",
+    "average_price_after_aid": "$25,921",
+    "distance_from_charlotte_nc": {
+      "miles": 670,
+      "hours_by_car": 11.0
+    },
+    "distance_from_nearest_big_city": {
+      "city": "Syracuse, NY",
+      "miles": 55,
+      "hours_by_car": 1.1
+    },
+    "has_business_school": true,
+    "attractions_near_college": [
+      "Cornell Botanic Gardens",
+      "Ithaca Falls",
+      "Cayuga Lake",
+      "Herbert F. Johnson Museum of Art",
+      "Finger Lakes wine trails",
+      "Buttermilk Falls State Park",
+      "Robert H. Treman State Park",
+      "Corning Museum of Glass"
+    ],
+    "map_embed_link": "https://maps.google.com/maps?q=Cornell+University&t=&z=13&ie=UTF8&iwloc=&output=embed",
+    "descriptor_tags": [
+      "ivy-league",
+      "private-university",
+      "college-town",
+      "research-heavy",
+      "engineering-powerhouse",
+      "beautiful-campus",
+      "large-school",
+      "rural-campus"
+    ],
+    "questbridge_partner": false,
+    "logo_link": "https://logo.clearbit.com/cornell.edu"
+  },
+  {
+    "name": "Vanderbilt University",
+    "location": "Nashville, Tennessee",
+    "founding_date": 1873,
+    "website": "https://www.vanderbilt.edu/",
+    "community_reviews": {
+      "rating": "4.3/5",
+      "text": "Described as a 'work hard, play hard' school with happy, balanced students. The campus is a beautiful arboretum in the heart of Music City, offering a great social scene alongside top-tier academics."
+    },
+    "trusted_source_reviews": {
+      "rating": "4.7/5",
+      "text": "A leading private university in the South, Vanderbilt excels in education (Peabody College), medicine, and law. It combines serious research with a vibrant quality of life in Nashville."
+    },
+    "average_sticker_price": "$85,738",
+    "average_price_after_aid": "$24,536",
+    "distance_from_charlotte_nc": {
+      "miles": 410,
+      "hours_by_car": 6.2
+    },
+    "distance_from_nearest_big_city": {
+      "city": "Nashville, TN",
+      "miles": 0,
+      "hours_by_car": 0.0
+    },
+    "has_business_school": true,
+    "attractions_near_college": [
+      "Grand Ole Opry",
+      "Ryman Auditorium",
+      "Country Music Hall of Fame and Museum",
+      "The Parthenon in Centennial Park",
+      "Broadway's honky-tonks",
+      "Belle Meade Historic Site & Winery",
+      "Frist Art Museum",
+      "Tennessee Titans NFL games"
+    ],
+    "map_embed_link": "https://maps.google.com/maps?q=Vanderbilt+University&t=&z=13&ie=UTF8&iwloc=&output=embed",
+    "descriptor_tags": [
+      "private-university",
+      "urban-campus",
+      "highly-selective",
+      "research-heavy",
+      "southern-charm",
+      "work-hard-play-hard",
+      "beautiful-campus",
+      "vibrant-greek-life"
+    ],
+    "questbridge_partner": true,
+    "logo_link": "https://logo.clearbit.com/vanderbilt.edu"
+  },
+  {
+    "name": "University of California, Berkeley",
+    "location": "Berkeley, California",
+    "founding_date": 1868,
+    "website": "https://www.berkeley.edu/",
+    "community_reviews": {
+      "rating": "4.1/5",
+      "text": "Known for its politically active and diverse student body. Academics are challenging, and the large size can feel impersonal, but the opportunities for research and activism are endless. The culture is spirited and liberal."
+    },
+    "trusted_source_reviews": {
+      "rating": "4.6/5",
+      "text": "The top public university in the nation, UC Berkeley is a research powerhouse with world-class programs in computer science, engineering, chemistry, and economics. It has a long history of student activism."
+    },
+    "average_sticker_price": "$74,010",
+    "average_price_after_aid": "$19,257",
+    "distance_from_charlotte_nc": {
+      "miles": 2700,
+      "hours_by_car": 40.0
+    },
+    "distance_from_nearest_big_city": {
+      "city": "San Francisco, CA",
+      "miles": 13,
+      "hours_by_car": 0.4
+    },
+    "has_business_school": true,
+    "attractions_near_college": [
+      "Golden Gate Bridge",
+      "Alcatraz Island",
+      "Tilden Regional Park",
+      "University of California Botanical Garden",
+      "Downtown San Francisco",
+      "Muir Woods National Monument",
+      "Napa Valley wine country",
+      "Fisherman's Wharf"
+    ],
+    "map_embed_link": "https://maps.google.com/maps?q=University+of+California,+Berkeley&t=&z=13&ie=UTF8&iwloc=&output=embed",
+    "descriptor_tags": [
+      "public-university",
+      "public-ivy",
+      "urban-campus",
+      "large-school",
+      "research-heavy",
+      "politically-active",
+      "highly-selective",
+      "west-coast-vibe"
+    ],
+    "questbridge_partner": false,
+    "logo_link": "https://logo.clearbit.com/berkeley.edu"
+  },
+  {
+    "name": "University of California, Los Angeles",
+    "location": "Los Angeles, California",
+    "founding_date": 1919,
+    "website": "https://www.ucla.edu/",
+    "community_reviews": {
+      "rating": "4.4/5",
+      "text": "Students love the vibrant campus life, great weather, and school spirit. The quarter system is fast-paced, but the environment is generally seen as collaborative. Excellent balance of top academics, sports, and social life."
+    },
+    "trusted_source_reviews": {
+      "rating": "4.6/5",
+      "text": "One of the most applied-to universities in the country, UCLA is a prestigious public institution with strengths in film, theater, arts, and a wide range of academic disciplines. Its location in LA provides countless opportunities."
+    },
+    "average_sticker_price": "$72,125",
+    "average_price_after_aid": "$16,423",
+    "distance_from_charlotte_nc": {
+      "miles": 2400,
+      "hours_by_car": 35.0
+    },
+    "distance_from_nearest_big_city": {
+      "city": "Los Angeles, CA",
+      "miles": 0,
+      "hours_by_car": 0.0
+    },
+    "has_business_school": true,
+    "attractions_near_college": [
+      "Santa Monica Pier",
+      "Beverly Hills and Rodeo Drive",
+      "Hollywood Walk of Fame",
+      "The Getty Center",
+      "Griffith Observatory",
+      "Universal Studios Hollywood",
+      "Venice Beach Boardwalk",
+      "Los Angeles County Museum of Art (LACMA)"
+    ],
+    "map_embed_link": "https://maps.google.com/maps?q=University+of+California,+Los+Angeles&t=&z=13&ie=UTF8&iwloc=&output=embed",
+    "descriptor_tags": [
+      "public-university",
+      "public-ivy",
+      "urban-campus",
+      "large-school",
+      "sports-culture",
+      "west-coast-vibe",
+      "research-heavy",
+      "arts-and-design"
+    ],
+    "questbridge_partner": false,
+    "logo_link": "https://logo.clearbit.com/ucla.edu"
+  },
+  {
+    "name": "Rice University",
+    "location": "Houston, Texas",
+    "founding_date": 1891,
+    "website": "https://www.rice.edu/",
+    "community_reviews": {
+      "rating": "4.6/5",
+      "text": "Known for its unique residential college system that fosters tight-knit communities, similar to Yale and Princeton. Students are happy and collaborative, benefiting from a high quality of life and strong academics in a manageable-sized city."
+    },
+    "trusted_source_reviews": {
+      "rating": "4.7/5",
+      "text": "A leading private research university often called the 'Ivy of the South.' Rice is renowned for its applied science programs, architecture, and music, with an emphasis on undergraduate education and a beautiful, tree-lined campus."
+    },
+    "average_sticker_price": "$78,144",
+    "average_price_after_aid": "$21,437",
+    "distance_from_charlotte_nc": {
+      "miles": 1000,
+      "hours_by_car": 15.0
+    },
+    "distance_from_nearest_big_city": {
+      "city": "Houston, TX",
+      "miles": 0,
+      "hours_by_car": 0.0
+    },
+    "has_business_school": true,
+    "attractions_near_college": [
+      "Houston Museum District (19 museums)",
+      "Space Center Houston (NASA)",
+      "Hermann Park",
+      "Miller Outdoor Theatre",
+      "Houston Zoo",
+      "The Galleria for shopping",
+      "Minute Maid Park (Astros)",
+      "Galveston Island Historic Pleasure Pier"
+    ],
+    "map_embed_link": "https://maps.google.com/maps?q=Rice+University&t=&z=13&ie=UTF8&iwloc=&output=embed",
+    "descriptor_tags": [
+      "private-university",
+      "urban-campus",
+      "highly-selective",
+      "research-heavy",
+      "collaborative-environment",
+      "beautiful-campus",
+      "stem-focused",
+      "medium-school"
+    ],
+    "questbridge_partner": true,
+    "logo_link": "https://logo.clearbit.com/rice.edu"
+  },
+  {
+    "name": "Dartmouth College",
+    "location": "Hanover, New Hampshire",
+    "founding_date": 1769,
+    "website": "https://home.dartmouth.edu/",
+    "community_reviews": {
+      "rating": "4.3/5",
+      "text": "Students love the strong sense of community, traditions, and the beautiful rural setting. The 'D-Plan' (quarter system) allows for flexibility in internships and study abroad. Greek life is a prominent part of the social scene."
+    },
+    "trusted_source_reviews": {
+      "rating": "4.6/5",
+      "text": "An Ivy League college with a singular focus on undergraduate education. Dartmouth is known for its close-knit community, passionate alumni network, and excellent programs in government, economics, and languages."
+    },
+    "average_sticker_price": "$90,162",
+    "average_price_after_aid": "$22,361",
+    "distance_from_charlotte_nc": {
+      "miles": 850,
+      "hours_by_car": 13.5
+    },
+    "distance_from_nearest_big_city": {
+      "city": "Boston, MA",
+      "miles": 125,
+      "hours_by_car": 2.1
+    },
+    "has_business_school": true,
+    "attractions_near_college": [
+      "Hood Museum of Art",
+      "Hopkins Center for the Arts",
+      "Appalachian Trail for hiking",
+      "Connecticut River activities (kayaking, canoeing)",
+      "Killington Ski Resort",
+      "White Mountains National Forest",
+      "Quechee Gorge",
+      "Simon Pearce glassblowing"
+    ],
+    "map_embed_link": "https://maps.google.com/maps?q=Dartmouth+College&t=&z=13&ie=UTF8&iwloc=&output=embed",
+    "descriptor_tags": [
+      "ivy-league",
+      "rural-campus",
+      "private-university",
+      "vibrant-greek-life",
+      "college-town",
+      "undergraduate-research",
+      "beautiful-campus",
+      "study-abroad-popular"
+    ],
+    "questbridge_partner": true,
+    "logo_link": "https://logo.clearbit.com/dartmouth.edu"
+  },
+  {
+    "name": "University of Notre Dame",
+    "location": "Notre Dame, Indiana",
+    "founding_date": 1842,
+    "website": "https://www.nd.edu/",
+    "community_reviews": {
+      "rating": "4.6/5",
+      "text": "The Catholic identity and strong sense of community are central to the student experience. Traditions, especially surrounding football, are huge. Students are known for being friendly, collaborative, and service-oriented."
+    },
+    "trusted_source_reviews": {
+      "rating": "4.7/5",
+      "text": "A premier Catholic university with a powerful alumni network. Notre Dame is highly regarded for its Mendoza College of Business, strong liberal arts core, and commitment to ethics and service."
+    },
+    "average_sticker_price": "$85,502",
+    "average_price_after_aid": "$26,015",
+    "distance_from_charlotte_nc": {
+      "miles": 650,
+      "hours_by_car": 10.0
+    },
+    "distance_from_nearest_big_city": {
+      "city": "Chicago, IL",
+      "miles": 95,
+      "hours_by_car": 1.7
+    },
+    "has_business_school": true,
+    "attractions_near_college": [
+      "Basilica of the Sacred Heart",
+      "Grotto of Our Lady of Lourdes",
+      "Notre Dame Stadium (Touchdown Jesus)",
+      "Studebaker National Museum",
+      "Lake Michigan beaches",
+      "Warren Dunes State Park",
+      "Chicago city attractions",
+      "Potawatomi Zoo"
+    ],
+    "map_embed_link": "https://maps.google.com/maps?q=University+of+Notre+Dame&t=&z=13&ie=UTF8&iwloc=&output=embed",
+    "descriptor_tags": [
+      "private-university",
+      "suburban-campus",
+      "sports-culture",
+      "highly-selective",
+      "midwest-friendly",
+      "beautiful-campus",
+      "business-focused",
+      "prestigious"
+    ],
+    "questbridge_partner": true,
+    "logo_link": "https://logo.clearbit.com/nd.edu"
+  },
+  {
+    "name": "University of Michigan-Ann Arbor",
+    "location": "Ann Arbor, Michigan",
+    "founding_date": 1817,
+    "website": "https://umich.edu/",
+    "community_reviews": {
+      "rating": "4.5/5",
+      "text": "A quintessential 'big school' experience with immense school spirit, especially for football. Ann Arbor is a top college town. Despite its size, students find community in the various schools and programs. The atmosphere is energetic and academically challenging."
+    },
+    "trusted_source_reviews": {
+      "rating": "4.7/5",
+      "text": "One of the top public research universities in the world, often cited as a 'Public Ivy.' U-M boasts top-ranked programs in business (Ross), engineering, and social sciences, with a massive and loyal alumni network."
+    },
+    "average_sticker_price": "$73,116",
+    "average_price_after_aid": "$17,832",
+    "distance_from_charlotte_nc": {
+      "miles": 620,
+      "hours_by_car": 9.5
+    },
+    "distance_from_nearest_big_city": {
+      "city": "Detroit, MI",
+      "miles": 44,
+      "hours_by_car": 0.8
+    },
+    "has_business_school": true,
+    "attractions_near_college": [
+      "The Big House (Michigan Stadium)",
+      "University of Michigan Museum of Natural History",
+      "Matthaei Botanical Gardens & Nichols Arboretum",
+      "Kerrytown Market & Shops",
+      "The Henry Ford Museum (Dearborn)",
+      "Detroit Institute of Arts",
+      "Comerica Park (Tigers)",
+      "Lake Erie Metropark"
+    ],
+    "map_embed_link": "https://maps.google.com/maps?q=University+of+Michigan-Ann+Arbor&t=&z=13&ie=UTF8&iwloc=&output=embed",
+    "descriptor_tags": [
+      "public-university",
+      "public-ivy",
+      "large-school",
+      "college-town",
+      "research-heavy",
+      "sports-culture",
+      "midwest-friendly",
+      "business-focused"
+    ],
+    "questbridge_partner": false,
+    "logo_link": "https://logo.clearbit.com/umich.edu"
+  },
+  {
+    "name": "Georgetown University",
+    "location": "Washington, D.C.",
+    "founding_date": 1789,
+    "website": "https://www.georgetown.edu/",
+    "community_reviews": {
+      "rating": "4.1/5",
+      "text": "The location in D.C. is a huge plus for students interested in politics, international relations, and public service. The culture is pre-professional and ambitious. The historic campus provides a classic college feel in a major city."
+    },
+    "trusted_source_reviews": {
+      "rating": "4.6/5",
+      "text": "The oldest Catholic and Jesuit university in the U.S., Georgetown is a leader in international affairs (Walsh School of Foreign Service). Its D.C. location provides unparalleled internship and career opportunities in government."
+    },
+    "average_sticker_price": "$89,894",
+    "average_price_after_aid": "$28,933",
+    "distance_from_charlotte_nc": {
+      "miles": 400,
+      "hours_by_car": 6.5
+    },
+    "distance_from_nearest_big_city": {
+      "city": "Washington, D.C.",
+      "miles": 0,
+      "hours_by_car": 0.0
+    },
+    "has_business_school": true,
+    "attractions_near_college": [
+      "The National Mall (monuments and memorials)",
+      "Smithsonian Museums (Air and Space, Natural History, etc.)",
+      "The White House",
+      "U.S. Capitol Building",
+      "National Gallery of Art",
+      "The Kennedy Center",
+      "Georgetown Waterfront Park",
+      "International Spy Museum"
+    ],
+    "map_embed_link": "https://maps.google.com/maps?q=Georgetown+University&t=&z=13&ie=UTF8&iwloc=&output=embed",
+    "descriptor_tags": [
+      "private-university",
+      "urban-campus",
+      "highly-selective",
+      "international-focus",
+      "politically-active",
+      "east-coast-energy",
+      "historic-architecture",
+      "humanities-strong"
+    ],
+    "questbridge_partner": false,
+    "logo_link": "https://logo.clearbit.com/georgetown.edu"
+  },
+  {
+    "name": "Carnegie Mellon University",
+    "location": "Pittsburgh, Pennsylvania",
+    "founding_date": 1900,
+    "website": "https://www.cmu.edu/",
+    "community_reviews": {
+      "rating": "4.0/5",
+      "text": "Known for its intense, challenging programs, especially in computer science and drama. The culture is described as nerdy, passionate, and collaborative. Students work hard but are deeply engaged in their fields of study."
+    },
+    "trusted_source_reviews": {
+      "rating": "4.6/5",
+      "text": "A top-ranked university at the intersection of technology and arts. Carnegie Mellon is a world leader in computer science, robotics, engineering, and fine arts, promoting a unique interdisciplinary approach."
+    },
+    "average_sticker_price": "$85,810",
+    "average_price_after_aid": "$33,485",
+    "distance_from_charlotte_nc": {
+      "miles": 460,
+      "hours_by_car": 7.0
+    },
+    "distance_from_nearest_big_city": {
+      "city": "Pittsburgh, PA",
+      "miles": 0,
+      "hours_by_car": 0.0
+    },
+    "has_business_school": true,
+    "attractions_near_college": [
+      "Carnegie Museum of Natural History",
+      "Carnegie Museum of Art",
+      "Phipps Conservatory and Botanical Gardens",
+      "Andy Warhol Museum",
+      "PNC Park (Pirates)",
+      "Duquesne Incline",
+      "Point State Park",
+      "Strip District"
+    ],
+    "map_embed_link": "https://maps.google.com/maps?q=Carnegie+Mellon+University&t=&z=13&ie=UTF8&iwloc=&output=embed",
+    "descriptor_tags": [
+      "private-university",
+      "urban-campus",
+      "stem-focused",
+      "arts-and-design",
+      "research-heavy",
+      "highly-selective",
+      "engineering-powerhouse",
+      "collaborative-environment"
+    ],
+    "questbridge_partner": false,
+    "logo_link": "https://logo.clearbit.com/cmu.edu"
+  },
+  {
+    "name": "Emory University",
+    "location": "Atlanta, Georgia",
+    "founding_date": 1836,
+    "website": "https://www.emory.edu/",
+    "community_reviews": {
+      "rating": "4.1/5",
+      "text": "Students appreciate the beautiful, green campus in a major city, and the strong sense of community. The academic environment is collaborative, with a well-regarded pre-health track and business school."
+    },
+    "trusted_source_reviews": {
+      "rating": "4.5/5",
+      "text": "A leading private research university in the Southeast, Emory is known for its strengths in business, public health, and medicine, with close ties to the Centers for Disease Control and Prevention (CDC)."
+    },
+    "average_sticker_price": "$83,838",
+    "average_price_after_aid": "$26,382",
+    "distance_from_charlotte_nc": {
+      "miles": 245,
+      "hours_by_car": 3.8
+    },
+    "distance_from_nearest_big_city": {
+      "city": "Atlanta, GA",
+      "miles": 0,
+      "hours_by_car": 0.0
+    },
+    "has_business_school": true,
+    "attractions_near_college": [
+      "Georgia Aquarium",
+      "World of Coca-Cola",
+      "Centennial Olympic Park",
+      "Martin Luther King, Jr. National Historical Park",
+      "High Museum of Art",
+      "Atlanta Botanical Garden",
+      "Fox Theatre",
+      "Mercedes-Benz Stadium"
+    ],
+    "map_embed_link": "https://maps.google.com/maps?q=Emory+University&t=&z=13&ie=UTF8&iwloc=&output=embed",
+    "descriptor_tags": [
+      "private-university",
+      "suburban-campus",
+      "research-heavy",
+      "pre-med-track",
+      "southern-charm",
+      "beautiful-campus",
+      "highly-selective",
+      "generous-financial-aid"
+    ],
+    "questbridge_partner": true,
+    "logo_link": "https://logo.clearbit.com/emory.edu"
+  },
+  {
+    "name": "Washington University in St. Louis",
+    "location": "St. Louis, Missouri",
+    "founding_date": 1853,
+    "website": "https://wustl.edu/",
+    "community_reviews": {
+      "rating": "4.4/5",
+      "text": "Known for having genuinely happy and collaborative students. The campus is beautiful, and the academics are top-notch but not cutthroat. Strong programs in medicine, social work, and architecture are highlights."
+    },
+    "trusted_source_reviews": {
+      "rating": "4.7/5",
+      "text": "A prestigious private research university with a reputation for collaborative academics and excellent pre-medical preparation. WashU is known for its beautiful campus and strong undergraduate focus."
+    },
+    "average_sticker_price": "$88,172",
+    "average_price_after_aid": "$24,533",
+    "distance_from_charlotte_nc": {
+      "miles": 670,
+      "hours_by_car": 10.0
+    },
+    "distance_from_nearest_big_city": {
+      "city": "St. Louis, MO",
+      "miles": 0,
+      "hours_by_car": 0.0
+    },
+    "has_business_school": true,
+    "attractions_near_college": [
+      "Gateway Arch National Park",
+      "Forest Park (home to zoo, art museum, science center)",
+      "Saint Louis Art Museum",
+      "Missouri Botanical Garden",
+      "City Museum",
+      "Busch Stadium (Cardinals)",
+      "The Delmar Loop",
+      "Cathedral Basilica of Saint Louis"
+    ],
+    "map_embed_link": "https://maps.google.com/maps?q=Washington+University+in+St.+Louis&t=&z=13&ie=UTF8&iwloc=&output=embed",
+    "descriptor_tags": [
+      "private-university",
+      "suburban-campus",
+      "highly-selective",
+      "research-heavy",
+      "collaborative-environment",
+      "beautiful-campus",
+      "pre-med-track",
+      "midwest-friendly"
+    ],
+    "questbridge_partner": true,
+    "logo_link": "https://logo.clearbit.com/wustl.edu"
+  },
+  {
+    "name": "University of Southern California",
+    "location": "Los Angeles, California",
+    "founding_date": 1880,
+    "website": "https://www.usc.edu/",
+    "community_reviews": {
+      "rating": "4.2/5",
+      "text": "Students praise the powerful Trojan alumni network, school spirit, and vibrant social life. The location in LA provides amazing internship opportunities, especially in entertainment and business. The culture is energetic and career-focused."
+    },
+    "trusted_source_reviews": {
+      "rating": "4.5/5",
+      "text": "A top private research university with world-renowned programs in cinematic arts, business, and communication. USC leverages its LA location and powerful 'Trojan Family' network to provide exceptional career opportunities."
+    },
+    "average_sticker_price": "$90,921",
+    "average_price_after_aid": "$32,228",
+    "distance_from_charlotte_nc": {
+      "miles": 2400,
+      "hours_by_car": 35.0
+    },
+    "distance_from_nearest_big_city": {
+      "city": "Los Angeles, CA",
+      "miles": 0,
+      "hours_by_car": 0.0
+    },
+    "has_business_school": true,
+    "attractions_near_college": [
+      "Exposition Park (CA Science Center, Natural History Museum)",
+      "Crypto.com Arena (Lakers, Clippers, Kings)",
+      "Hollywood",
+      "Santa Monica Pier",
+      "The Getty Center",
+      "Dodger Stadium",
+      "Griffith Observatory",
+      "Los Angeles Memorial Coliseum"
+    ],
+    "map_embed_link": "https://maps.google.com/maps?q=University+of+Southern+California&t=&z=13&ie=UTF8&iwloc=&output=embed",
+    "descriptor_tags": [
+      "private-university",
+      "urban-campus",
+      "large-school",
+      "sports-culture",
+      "west-coast-vibe",
+      "arts-and-design",
+      "business-focused",
+      "highly-selective"
+    ],
+    "questbridge_partner": true,
+    "logo_link": "https://logo.clearbit.com/usc.edu"
+  },
+  {
+    "name": "University of Virginia",
+    "location": "Charlottesville, Virginia",
+    "founding_date": 1819,
+    "website": "https://www.virginia.edu/",
+    "community_reviews": {
+      "rating": "4.4/5",
+      "text": "Rich in history and tradition, UVA has a strong student self-governance ethos (the Honor System). The campus, or 'Grounds,' is beautiful, and there's a good balance of rigorous academics and social life, with strong Greek life."
+    },
+    "trusted_source_reviews": {
+      "rating": "4.6/5",
+      "text": "One of the original 'Public Ivies,' founded by Thomas Jefferson. UVA is acclaimed for its beautiful historic campus (a UNESCO World Heritage Site), strong undergraduate business and liberal arts programs, and traditions."
+    },
+    "average_sticker_price": "$74,510",
+    "average_price_after_aid": "$21,049",
+    "distance_from_charlotte_nc": {
+      "miles": 270,
+      "hours_by_car": 4.2
+    },
+    "distance_from_nearest_big_city": {
+      "city": "Richmond, VA",
+      "miles": 72,
+      "hours_by_car": 1.2
+    },
+    "has_business_school": true,
+    "attractions_near_college": [
+      "Monticello (Thomas Jefferson's home)",
+      "Shenandoah National Park / Skyline Drive",
+      "The Lawn and Rotunda",
+      "Historic Downtown Mall",
+      "Carter Mountain Orchard",
+      "James Monroe's Highland",
+      "Blue Ridge Parkway",
+      "Virginia's wine country"
+    ],
+    "map_embed_link": "https://maps.google.com/maps?q=University+of+Virginia&t=&z=13&ie=UTF8&iwloc=&output=embed",
+    "descriptor_tags": [
+      "public-university",
+      "public-ivy",
+      "college-town",
+      "historic-architecture",
+      "beautiful-campus",
+      "vibrant-greek-life",
+      "southern-charm",
+      "highly-selective"
+    ],
+    "questbridge_partner": true,
+    "logo_link": "https://logo.clearbit.com/virginia.edu"
+  },
+  {
+    "name": "Tufts University",
+    "location": "Medford, Massachusetts",
+    "founding_date": 1852,
+    "website": "https://www.tufts.edu/",
+    "community_reviews": {
+      "rating": "4.2/5",
+      "text": "Students describe the culture as intellectually playful, quirky, and civically engaged. There's a strong emphasis on internationalism and interdisciplinary studies. The proximity to Boston is a major perk."
+    },
+    "trusted_source_reviews": {
+      "rating": "4.5/5",
+      "text": "A highly selective private university known for its top-ranked international relations program (Fletcher School) and a strong focus on active citizenship. Tufts balances a liberal arts feel with the resources of a research university."
+    },
+    "average_sticker_price": "$91,180",
+    "average_price_after_aid": "$29,484",
+    "distance_from_charlotte_nc": {
+      "miles": 835,
+      "hours_by_car": 13.2
+    },
+    "distance_from_nearest_big_city": {
+      "city": "Boston, MA",
+      "miles": 6,
+      "hours_by_car": 0.3
+    },
+    "has_business_school": false,
+    "attractions_near_college": [
+      "Downtown Boston attractions",
+      "Freedom Trail",
+      "Faneuil Hall Marketplace",
+      "Museum of Science",
+      "Fenway Park",
+      "Harvard and MIT campuses",
+      "Davis Square in Somerville",
+      "New England Aquarium"
+    ],
+    "map_embed_link": "https://maps.google.com/maps?q=Tufts+University&t=&z=13&ie=UTF8&iwloc=&output=embed",
+    "descriptor_tags": [
+      "private-university",
+      "suburban-campus",
+      "highly-selective",
+      "international-focus",
+      "politically-active",
+      "quirky-students",
+      "study-abroad-popular",
+      "east-coast-energy"
+    ],
+    "questbridge_partner": true,
+    "logo_link": "https://logo.clearbit.com/tufts.edu"
+  },
+  {
+    "name": "New York University",
+    "location": "New York, New York",
+    "founding_date": 1831,
+    "website": "https://www.nyu.edu/",
+    "community_reviews": {
+      "rating": "3.9/5",
+      "text": "NYU offers a unique 'campus-less' experience, with the city itself as the campus. Students are independent, ambitious, and artistically inclined. It's perfect for those who want to immerse themselves in city life from day one."
+    },
+    "trusted_source_reviews": {
+      "rating": "4.4/5",
+      "text": "A large, diverse private university deeply integrated with Greenwich Village. NYU is renowned for its Tisch School of the Arts, Stern School of Business, and extensive global study programs."
+    },
+    "average_sticker_price": "$88,962",
+    "average_price_after_aid": "$32,599",
+    "distance_from_charlotte_nc": {
+      "miles": 640,
+      "hours_by_car": 10.0
+    },
+    "distance_from_nearest_big_city": {
+      "city": "New York, NY",
+      "miles": 0,
+      "hours_by_car": 0.0
+    },
+    "has_business_school": true,
+    "attractions_near_college": [
+      "Washington Square Park",
+      "Greenwich Village",
+      "SoHo shopping",
+      "Broadway Theatres",
+      "The High Line",
+      "Whitney Museum of American Art",
+      "Comedy Cellar",
+      "Union Square Greenmarket"
+    ],
+    "map_embed_link": "https://maps.google.com/maps?q=New+York+University&t=&z=13&ie=UTF8&iwloc=&output=embed",
+    "descriptor_tags": [
+      "private-university",
+      "urban-campus",
+      "large-school",
+      "arts-and-design",
+      "artsy-vibe",
+      "international-focus",
+      "study-abroad-popular",
+      "east-coast-energy"
+    ],
+    "questbridge_partner": false,
+    "logo_link": "https://logo.clearbit.com/nyu.edu"
+  },
+  {
+    "name": "University of North Carolina at Chapel Hill",
+    "location": "Chapel Hill, North Carolina",
+    "founding_date": 1789,
+    "website": "https://www.unc.edu/",
+    "community_reviews": {
+      "rating": "4.5/5",
+      "text": "Students rave about the school spirit, top-tier athletics (especially basketball), and collaborative academic environment. Chapel Hill is a quintessential college town. The culture is energetic, social, and academically focused."
+    },
+    "trusted_source_reviews": {
+      "rating": "4.6/5",
+      "text": "The nation's first public university, UNC-Chapel Hill is a 'Public Ivy' known for providing an exceptional education at a great value. It has top programs in business, journalism, and public health."
+    },
+    "average_sticker_price": "$56,368",
+    "average_price_after_aid": "$11,100",
+    "distance_from_charlotte_nc": {
+      "miles": 140,
+      "hours_by_car": 2.2
+    },
+    "distance_from_nearest_big_city": {
+      "city": "Raleigh, NC",
+      "miles": 28,
+      "hours_by_car": 0.5
+    },
+    "has_business_school": true,
+    "attractions_near_college": [
+      "Franklin Street",
+      "Dean E. Smith Center (Basketball)",
+      "Morehead Planetarium and Science Center",
+      "North Carolina Botanical Garden",
+      "Ackland Art Museum",
+      "Duke University campus (Durham)",
+      "Jordan Lake State Recreation Area",
+      "Carrboro ArtsCenter"
+    ],
+    "map_embed_link": "https://maps.google.com/maps?q=University+of+North+Carolina+at+Chapel+Hill&t=&z=13&ie=UTF8&iwloc=&output=embed",
+    "descriptor_tags": [
+      "public-university",
+      "public-ivy",
+      "college-town",
+      "sports-culture",
+      "research-heavy",
+      "good-value",
+      "beautiful-campus",
+      "southern-charm"
+    ],
+    "questbridge_partner": false,
+    "logo_link": "https://logo.clearbit.com/unc.edu"
+  },
+  {
+    "name": "Wake Forest University",
+    "location": "Winston-Salem, North Carolina",
+    "founding_date": 1834,
+    "website": "https://www.wfu.edu/",
+    "community_reviews": {
+      "rating": "4.2/5",
+      "text": "Known for small class sizes and close faculty interaction, giving it a liberal arts feel. The 'Work Forest' nickname reflects its academic rigor. The campus is beautiful, and Greek life is a significant part of the social scene."
+    },
+    "trusted_source_reviews": {
+      "rating": "4.4/5",
+      "text": "A top private university that blends a liberal arts tradition with the resources of a larger research institution. Wake Forest is noted for its strong undergraduate business program and emphasis on faculty mentorship."
+    },
+    "average_sticker_price": "$87,132",
+    "average_price_after_aid": "$28,119",
+    "distance_from_charlotte_nc": {
+      "miles": 82,
+      "hours_by_car": 1.3
+    },
+    "distance_from_nearest_big_city": {
+      "city": "Greensboro, NC",
+      "miles": 30,
+      "hours_by_car": 0.5
+    },
+    "has_business_school": true,
+    "attractions_near_college": [
+      "Reynolda House Museum of American Art",
+      "Reynolda Gardens",
+      "Old Salem Museums & Gardens",
+      "Pilot Mountain State Park",
+      "Hanging Rock State Park",
+      "International Civil Rights Center & Museum (Greensboro)",
+      "North Carolina Zoo (Asheboro)",
+      "Blue Ridge Parkway"
+    ],
+    "map_embed_link": "https://maps.google.com/maps?q=Wake+Forest+University&t=&z=13&ie=UTF8&iwloc=&output=embed",
+    "descriptor_tags": [
+      "private-university",
+      "suburban-campus",
+      "liberal-arts",
+      "vibrant-greek-life",
+      "beautiful-campus",
+      "southern-charm",
+      "medium-school",
+      "highly-selective"
+    ],
+    "questbridge_partner": false,
+    "logo_link": "https://logo.clearbit.com/wfu.edu"
+  },
+  {
+    "name": "University of Florida",
+    "location": "Gainesville, Florida",
+    "founding_date": 1853,
+    "website": "https://www.ufl.edu/",
+    "community_reviews": {
+      "rating": "4.4/5",
+      "text": "UF has immense school pride and a dominant sports culture, especially around football. It's a large school with a huge range of majors and opportunities. Gainesville is a classic college town that revolves around the university."
+    },
+    "trusted_source_reviews": {
+      "rating": "4.5/5",
+      "text": "A top-5 public university, UF is a major research institution offering an outstanding education at an incredible value. It is a leader in engineering, business, and agricultural sciences."
+    },
+    "average_sticker_price": "$43,190",
+    "average_price_after_aid": "$9,451",
+    "distance_from_charlotte_nc": {
+      "miles": 430,
+      "hours_by_car": 6.3
+    },
+    "distance_from_nearest_big_city": {
+      "city": "Jacksonville, FL",
+      "miles": 72,
+      "hours_by_car": 1.2
+    },
+    "has_business_school": true,
+    "attractions_near_college": [
+      "Ben Hill Griffin Stadium ('The Swamp')",
+      "Florida Museum of Natural History",
+      "Devil's Millhopper Geological State Park",
+      "Paynes Prairie Preserve State Park",
+      "Kanapaha Botanical Gardens",
+      "Ichetucknee Springs State Park",
+      "St. Augustine historic city",
+      "Ginnie Springs"
+    ],
+    "map_embed_link": "https://maps.google.com/maps?q=University+of+Florida&t=&z=13&ie=UTF8&iwloc=&output=embed",
+    "descriptor_tags": [
+      "public-university",
+      "large-school",
+      "college-town",
+      "sports-culture",
+      "research-heavy",
+      "good-value",
+      "public-ivy",
+      "southern-charm"
+    ],
+    "questbridge_partner": false,
+    "logo_link": "https://logo.clearbit.com/ufl.edu"
+  },
+  {
+    "name": "Boston College",
+    "location": "Chestnut Hill, Massachusetts",
+    "founding_date": 1863,
+    "website": "https://www.bc.edu/",
+    "community_reviews": {
+      "rating": "4.2/5",
+      "text": "Students appreciate the strong sense of community, Jesuit values focused on service and reflection, and beautiful Gothic campus. The culture is often described as 'work hard, play hard,' with a strong sports following."
+    },
+    "trusted_source_reviews": {
+      "rating": "4.4/5",
+      "text": "A leading Jesuit, Catholic university that excels in liberal arts, business (Carroll School), and nursing. BC offers a strong community feel with easy access to the resources of Boston."
+    },
+    "average_sticker_price": "$88,744",
+    "average_price_after_aid": "$31,232",
+    "distance_from_charlotte_nc": {
+      "miles": 830,
+      "hours_by_car": 13.0
+    },
+    "distance_from_nearest_big_city": {
+      "city": "Boston, MA",
+      "miles": 6,
+      "hours_by_car": 0.3
+    },
+    "has_business_school": true,
+    "attractions_near_college": [
+      "Fenway Park",
+      "Museum of Fine Arts, Boston",
+      "Freedom Trail",
+      "Isabella Stewart Gardner Museum",
+      "Faneuil Hall Marketplace",
+      "New England Aquarium",
+      "Prudential Center Skywalk Observatory",
+      "Boston Common and Public Garden"
+    ],
+    "map_embed_link": "https://maps.google.com/maps?q=Boston+College&t=&z=13&ie=UTF8&iwloc=&output=embed",
+    "descriptor_tags": [
+      "private-university",
+      "suburban-campus",
+      "beautiful-campus",
+      "sports-culture",
+      "work-hard-play-hard",
+      "east-coast-energy",
+      "highly-selective",
+      "business-focused"
+    ],
+    "questbridge_partner": true,
+    "logo_link": "https://logo.clearbit.com/bc.edu"
+  },
+  {
+    "name": "University of Texas at Austin",
+    "location": "Austin, Texas",
+    "founding_date": 1883,
+    "website": "https://www.utexas.edu/",
+    "community_reviews": {
+      "rating": "4.3/5",
+      "text": "'What starts here changes the world' is a motto students take to heart. The school is huge, with massive school pride and a lively social scene in a city famous for music and culture. Academics are strong across the board."
+    },
+    "trusted_source_reviews": {
+      "rating": "4.5/5",
+      "text": "A premier public research university and a 'Public Ivy.' UT Austin is a powerhouse in business (McCombs), engineering, and computer science. Its location in the vibrant capital of Texas is a major draw."
+    },
+    "average_sticker_price": "$61,316",
+    "average_price_after_aid": "$17,354",
+    "distance_from_charlotte_nc": {
+      "miles": 1150,
+      "hours_by_car": 17.0
+    },
+    "distance_from_nearest_big_city": {
+      "city": "Austin, TX",
+      "miles": 0,
+      "hours_by_car": 0.0
+    },
+    "has_business_school": true,
+    "attractions_near_college": [
+      "Texas State Capitol",
+      "Zilker Park & Barton Springs Pool",
+      "6th Street entertainment district",
+      "Lady Bird Lake Hike-and-Bike Trail",
+      "Blanton Museum of Art",
+      "South Congress Avenue shopping",
+      "Circuit of the Americas",
+      "LBJ Presidential Library"
+    ],
+    "map_embed_link": "https://maps.google.com/maps?q=University+of+Texas+at+Austin&t=&z=13&ie=UTF8&iwloc=&output=embed",
+    "descriptor_tags": [
+      "public-university",
+      "large-school",
+      "urban-campus",
+      "sports-culture",
+      "research-heavy",
+      "public-ivy",
+      "business-focused",
+      "vibrant-greek-life"
+    ],
+    "questbridge_partner": false,
+    "logo_link": "https://logo.clearbit.com/utexas.edu"
+  },
+  {
+    "name": "Georgia Institute of Technology",
+    "location": "Atlanta, Georgia",
+    "founding_date": 1885,
+    "website": "https://www.gatech.edu/",
+    "community_reviews": {
+      "rating": "4.0/5",
+      "text": "Academically intense and rigorous, with a smart, focused student body. The engineering and computer science programs are top-tier. The male-to-female ratio is notable, and the culture is driven and innovative."
+    },
+    "trusted_source_reviews": {
+      "rating": "4.5/5",
+      "text": "A 'Public Ivy' and one of the nation's leading research universities, Georgia Tech is a powerhouse in engineering and computing. It offers a fantastic return on investment and is located in the heart of Atlanta."
+    },
+    "average_sticker_price": "$53,838",
+    "average_price_after_aid": "$17,921",
+    "distance_from_charlotte_nc": {
+      "miles": 245,
+      "hours_by_car": 3.8
+    },
+    "distance_from_nearest_big_city": {
+      "city": "Atlanta, GA",
+      "miles": 0,
+      "hours_by_car": 0.0
+    },
+    "has_business_school": true,
+    "attractions_near_college": [
+      "Georgia Aquarium",
+      "World of Coca-Cola",
+      "Centennial Olympic Park",
+      "Fox Theatre",
+      "High Museum of Art",
+      "Piedmont Park",
+      "Mercedes-Benz Stadium",
+      "College Football Hall of Fame"
+    ],
+    "map_embed_link": "https://maps.google.com/maps?q=Georgia+Institute+of+Technology&t=&z=13&ie=UTF8&iwloc=&output=embed",
+    "descriptor_tags": [
+      "public-university",
+      "urban-campus",
+      "stem-focused",
+      "engineering-powerhouse",
+      "research-heavy",
+      "good-value",
+      "public-ivy",
+      "competitive-academics"
+    ],
+    "questbridge_partner": false,
+    "logo_link": "https://logo.clearbit.com/gatech.edu"
+  },
+  {
+    "name": "University of Illinois Urbana-Champaign",
+    "location": "Urbana-Champaign, Illinois",
+    "founding_date": 1867,
+    "website": "https://illinois.edu/",
+    "community_reviews": {
+      "rating": "4.2/5",
+      "text": "A large public university with a classic Big Ten feel: strong school spirit, a lively social scene with a big Greek life presence, and a true college town setting. Academics, especially in engineering and computer science, are elite."
+    },
+    "trusted_source_reviews": {
+      "rating": "4.4/5",
+      "text": "A 'Public Ivy' with world-class engineering (Grainger) and computer science programs. UIUC is a major research institution with a reputation for innovation and a vibrant campus life."
+    },
+    "average_sticker_price": "$56,536",
+    "average_price_after_aid": "$13,517",
+    "distance_from_charlotte_nc": {
+      "miles": 670,
+      "hours_by_car": 10.2
+    },
+    "distance_from_nearest_big_city": {
+      "city": "Chicago, IL",
+      "miles": 140,
+      "hours_by_car": 2.2
+    },
+    "has_business_school": true,
+    "attractions_near_college": [
+      "Krannert Center for the Performing Arts",
+      "Spurlock Museum",
+      "Allerton Park and Retreat Center",
+      "Memorial Stadium",
+      "Japan House",
+      "State Farm Center",
+      "Downtown Champaign restaurants",
+      "Hardy's Reindeer Ranch"
+    ],
+    "map_embed_link": "https://maps.google.com/maps?q=University+of+Illinois+Urbana-Champaign&t=&z=13&ie=UTF8&iwloc=&output=embed",
+    "descriptor_tags": [
+      "public-university",
+      "large-school",
+      "college-town",
+      "engineering-powerhouse",
+      "research-heavy",
+      "public-ivy",
+      "vibrant-greek-life",
+      "midwest-friendly"
+    ],
+    "questbridge_partner": false,
+    "logo_link": "https://logo.clearbit.com/illinois.edu"
+  },
+  {
+    "name": "Williams College",
+    "location": "Williamstown, Massachusetts",
+    "founding_date": 1793,
+    "website": "https://www.williams.edu/",
+    "community_reviews": {
+      "rating": "4.5/5",
+      "text": "Students praise the incredibly tight-knit community, small class sizes, and deep relationships with professors. The tutorial system is a unique highlight. The rural setting is beautiful but isolated, fostering a strong on-campus social life."
+    },
+    "trusted_source_reviews": {
+      "rating": "5.0/5",
+      "text": "Consistently ranked as the #1 liberal arts college in the nation. Williams is known for its academic rigor, focus on undergraduate teaching, tutorial-style classes, and massive endowment per student."
+    },
+    "average_sticker_price": "$87,320",
+    "average_price_after_aid": "$19,534",
+    "distance_from_charlotte_nc": {
+      "miles": 780,
+      "hours_by_car": 12.5
+    },
+    "distance_from_nearest_big_city": {
+      "city": "Albany, NY",
+      "miles": 40,
+      "hours_by_car": 0.8
+    },
+    "has_business_school": false,
+    "attractions_near_college": [
+      "Clark Art Institute",
+      "MASS MoCA (Massachusetts Museum of Contemporary Art)",
+      "Williams College Museum of Art",
+      "Mount Greylock State Reservation",
+      "Appalachian Trail",
+      "Tanglewood (summer home of Boston Symphony Orchestra)",
+      "Jiminy Peak Mountain Resort",
+      "The '62 Center for Theatre and Dance"
+    ],
+    "map_embed_link": "https://maps.google.com/maps?q=Williams+College&t=&z=13&ie=UTF8&iwloc=&output=embed",
+    "descriptor_tags": [
+      "liberal-arts",
+      "small-school",
+      "private-university",
+      "rural-campus",
+      "highly-selective",
+      "beautiful-campus",
+      "collaborative-environment",
+      "generous-financial-aid"
+    ],
+    "questbridge_partner": true,
+    "logo_link": "https://logo.clearbit.com/williams.edu"
+  },
+  {
+    "name": "Amherst College",
+    "location": "Amherst, Massachusetts",
+    "founding_date": 1821,
+    "website": "https://www.amherst.edu/",
+    "community_reviews": {
+      "rating": "4.4/5",
+      "text": "Known for its open curriculum (no core requirements) and diverse student body. As part of the Five College Consortium, students have vast academic and social resources. The environment is intellectually intense but collaborative."
+    },
+    "trusted_source_reviews": {
+      "rating": "5.0/5",
+      "text": "A top-tier liberal arts college praised for its open curriculum, commitment to socioeconomic diversity, and strong undergraduate teaching. Amherst fosters intellectual freedom and close faculty-student mentorship."
+    },
+    "average_sticker_price": "$88,830",
+    "average_price_after_aid": "$19,258",
+    "distance_from_charlotte_nc": {
+      "miles": 790,
+      "hours_by_car": 12.5
+    },
+    "distance_from_nearest_big_city": {
+      "city": "Springfield, MA",
+      "miles": 25,
+      "hours_by_car": 0.5
+    },
+    "has_business_school": false,
+    "attractions_near_college": [
+      "Emily Dickinson Museum",
+      "Beneski Museum of Natural History",
+      "Access to Smith, Mount Holyoke, Hampshire, and UMass Amherst campuses",
+      "The Eric Carle Museum of Picture Book Art",
+      "Mount Holyoke Range State Park",
+      "Yiddish Book Center",
+      "Downtown Northampton",
+      "Quabbin Reservoir"
+    ],
+    "map_embed_link": "https://maps.google.com/maps?q=Amherst+College&t=&z=13&ie=UTF8&iwloc=&output=embed",
+    "descriptor_tags": [
+      "liberal-arts",
+      "small-school",
+      "private-university",
+      "college-town",
+      "highly-selective",
+      "diverse-student-body",
+      "need-blind-admissions",
+      "humanities-strong"
+    ],
+    "questbridge_partner": true,
+    "logo_link": "https://logo.clearbit.com/amherst.edu"
+  },
+  {
+    "name": "Swarthmore College",
+    "location": "Swarthmore, Pennsylvania",
+    "founding_date": 1864,
+    "website": "https://www.swarthmore.edu/",
+    "community_reviews": {
+      "rating": "4.1/5",
+      "text": "Academically intense and known for attracting intellectually curious, socially conscious, and somewhat quirky students. The Honors Program is famously rigorous. The beautiful arboretum campus offers a peaceful setting near Philadelphia."
+    },
+    "trusted_source_reviews": {
+      "rating": "4.9/5",
+      "text": "A premier liberal arts college that combines academic rigor with a commitment to social responsibility. Swarthmore is noted for its demanding Honors Program, engineering program (rare for a LAC), and beautiful campus."
+    },
+    "average_sticker_price": "$84,792",
+    "average_price_after_aid": "$21,496",
+    "distance_from_charlotte_nc": {
+      "miles": 520,
+      "hours_by_car": 8.2
+    },
+    "distance_from_nearest_big_city": {
+      "city": "Philadelphia, PA",
+      "miles": 11,
+      "hours_by_car": 0.4
+    },
+    "has_business_school": false,
+    "attractions_near_college": [
+      "Scott Arboretum",
+      "Downtown Philadelphia attractions",
+      "Philadelphia Museum of Art",
+      "Longwood Gardens",
+      "Brandywine River Museum of Art",
+      "Independence National Historical Park",
+      "Reading Terminal Market",
+      "Valley Forge National Historical Park"
+    ],
+    "map_embed_link": "https://maps.google.com/maps?q=Swarthmore+College&t=&z=13&ie=UTF8&iwloc=&output=embed",
+    "descriptor_tags": [
+      "liberal-arts",
+      "small-school",
+      "private-university",
+      "suburban-campus",
+      "highly-selective",
+      "politically-active",
+      "beautiful-campus",
+      "quirky-students"
+    ],
+    "questbridge_partner": true,
+    "logo_link": "https://logo.clearbit.com/swarthmore.edu"
+  },
+  {
+    "name": "Pomona College",
+    "location": "Claremont, California",
+    "founding_date": 1887,
+    "website": "https://www.pomona.edu/",
+    "community_reviews": {
+      "rating": "4.6/5",
+      "text": "Students love the collaborative, happy atmosphere combined with top-tier academics. The Claremont Colleges consortium provides the resources of a large university with the tight-knit feel of a small school. The Southern California weather is a huge plus."
+    },
+    "trusted_source_reviews": {
+      "rating": "4.9/5",
+      "text": "A leading liberal arts college offering the best of both worlds through the Claremont Colleges consortium. Pomona fosters a collaborative environment, close student-faculty interaction, and ample research opportunities."
+    },
+    "average_sticker_price": "$84,396",
+    "average_price_after_aid": "$20,442",
+    "distance_from_charlotte_nc": {
+      "miles": 2370,
+      "hours_by_car": 34.0
+    },
+    "distance_from_nearest_big_city": {
+      "city": "Los Angeles, CA",
+      "miles": 35,
+      "hours_by_car": 0.8
+    },
+    "has_business_school": false,
+    "attractions_near_college": [
+      "Access to Claremont McKenna, Harvey Mudd, Scripps, and Pitzer campuses",
+      "Mount Baldy for hiking and skiing",
+      "Disneyland Park",
+      "Downtown Los Angeles",
+      "Joshua Tree National Park",
+      "Huntington Library",
+      "Santa Monica Pier",
+      "Hollywood Bowl"
+    ],
+    "map_embed_link": "https://maps.google.com/maps?q=Pomona+College&t=&z=13&ie=UTF8&iwloc=&output=embed",
+    "descriptor_tags": [
+      "liberal-arts",
+      "small-school",
+      "private-university",
+      "suburban-campus",
+      "highly-selective",
+      "west-coast-vibe",
+      "collaborative-environment",
+      "beautiful-campus"
+    ],
+    "questbridge_partner": true,
+    "logo_link": "https://logo.clearbit.com/pomona.edu"
+  },
+  {
+    "name": "Wellesley College",
+    "location": "Wellesley, Massachusetts",
+    "founding_date": 1870,
+    "website": "https://www.wellesley.edu/",
+    "community_reviews": {
+      "rating": "4.3/5",
+      "text": "A powerful sense of community and sisterhood defines the Wellesley experience. Students are smart, ambitious, and supportive of one another. The beautiful campus is a peaceful retreat, and cross-registration with MIT and others adds options."
+    },
+    "trusted_source_reviews": {
+      "rating": "4.8/5",
+      "text": "One of the nation's most prestigious women's colleges, Wellesley is known for its academic excellence, stunningly beautiful campus, and powerful alumnae network. It empowers women to become leaders in their fields."
+    },
+    "average_sticker_price": "$86,150",
+    "average_price_after_aid": "$21,894",
+    "distance_from_charlotte_nc": {
+      "miles": 845,
+      "hours_by_car": 13.3
+    },
+    "distance_from_nearest_big_city": {
+      "city": "Boston, MA",
+      "miles": 15,
+      "hours_by_car": 0.4
+    },
+    "has_business_school": false,
+    "attractions_near_college": [
+      "Lake Waban",
+      "Davis Museum at Wellesley College",
+      "Downtown Boston attractions",
+      "Museum of Fine Arts, Boston",
+      "Isabella Stewart Gardner Museum",
+      "Freedom Trail",
+      "Faneuil Hall Marketplace",
+      "Harvard Square"
+    ],
+    "map_embed_link": "https://maps.google.com/maps?q=Wellesley+College&t=&z=13&ie=UTF8&iwloc=&output=embed",
+    "descriptor_tags": [
+      "women's-college",
+      "liberal-arts",
+      "small-school",
+      "private-university",
+      "suburban-campus",
+      "beautiful-campus",
+      "highly-selective",
+      "collaborative-environment"
+    ],
+    "questbridge_partner": true,
+    "logo_link": "https://logo.clearbit.com/wellesley.edu"
+  },
+  {
+    "name": "United States Air Force Academy",
+    "location": "USAFA, Colorado",
+    "founding_date": 1954,
+    "website": "https://www.usafa.edu/",
+    "community_reviews": {
+      "rating": "4.0/5",
+      "text": "Life is highly structured, disciplined, and demanding, focused on developing leaders of character. Cadets value the incredible opportunities, camaraderie, and sense of purpose. It's a challenging but rewarding four-year experience."
+    },
+    "trusted_source_reviews": {
+      "rating": "4.6/5",
+      "text": "A premier military service academy offering a top-tier engineering and liberal arts education at no cost to cadets, in exchange for military service. It is known for its stunning modern architecture and rigorous training programs."
+    },
+    "average_sticker_price": "$0",
+    "average_price_after_aid": "$0",
+    "distance_from_charlotte_nc": {
+      "miles": 1600,
+      "hours_by_car": 24.0
+    },
+    "distance_from_nearest_big_city": {
+      "city": "Colorado Springs, CO",
+      "miles": 12,
+      "hours_by_car": 0.2
+    },
+    "has_business_school": false,
+    "attractions_near_college": [
+      "Cadet Chapel",
+      "Garden of the Gods",
+      "Pikes Peak",
+      "U.S. Olympic & Paralympic Museum",
+      "Cheyenne Mountain Zoo",
+      "Red Rock Canyon Open Space",
+      "Manitou Springs",
+      "Cave of the Winds Mountain Park"
+    ],
+    "map_embed_link": "https://maps.google.com/maps?q=United+States+Air+Force+Academy&t=&z=13&ie=UTF8&iwloc=&output=embed",
+    "descriptor_tags": [
+      "military-academy",
+      "public-university",
+      "stem-focused",
+      "engineering-powerhouse",
+      "beautiful-campus",
+      "mountain-views",
+      "highly-selective",
+      "good-value"
+    ],
+    "questbridge_partner": false,
+    "logo_link": "https://logo.clearbit.com/usafa.edu"
+  },
+  {
+    "name": "United States Naval Academy",
+    "location": "Annapolis, Maryland",
+    "founding_date": 1845,
+    "website": "https://www.usna.edu/",
+    "community_reviews": {
+      "rating": "4.1/5",
+      "text": "Midshipmen describe a life of discipline, tradition, and intense physical and academic training. The bond among classmates is exceptionally strong. The historic campus and location in Annapolis are highly regarded."
+    },
+    "trusted_source_reviews": {
+      "rating": "4.7/5",
+      "text": "A prestigious service academy that educates future officers for the U.S. Navy and Marine Corps. It offers a rigorous STEM-focused education free of charge in return for a service commitment. Traditions and leadership development are paramount."
+    },
+    "average_sticker_price": "$0",
+    "average_price_after_aid": "$0",
+    "distance_from_charlotte_nc": {
+      "miles": 430,
+      "hours_by_car": 7.0
+    },
+    "distance_from_nearest_big_city": {
+      "city": "Baltimore, MD",
+      "miles": 27,
+      "hours_by_car": 0.5
+    },
+    "has_business_school": false,
+    "attractions_near_college": [
+      "Historic Annapolis City Dock",
+      "USNA Museum",
+      "Maryland State House",
+      "National Aquarium (Baltimore)",
+      "Fort McHenry (Baltimore)",
+      "Washington D.C. monuments and museums",
+      "Chesapeake Bay sailing",
+      "Sandy Point State Park"
+    ],
+    "map_embed_link": "https://maps.google.com/maps?q=United+States+Naval+Academy&t=&z=13&ie=UTF8&iwloc=&output=embed",
+    "descriptor_tags": [
+      "military-academy",
+      "public-university",
+      "stem-focused",
+      "historic-architecture",
+      "coastal-campus",
+      "highly-selective",
+      "good-value",
+      "engineering-powerhouse"
+    ],
+    "questbridge_partner": false,
+    "logo_link": "https://logo.clearbit.com/usna.edu"
+  },
+  {
+    "name": "Colgate University",
+    "location": "Hamilton, New York",
+    "founding_date": 1819,
+    "website": "https://www.colgate.edu/",
+    "community_reviews": {
+      "rating": "4.2/5",
+      "text": "Students love the beautiful, rural campus and strong sense of community. Colgate is known for its passionate alumni network and a 'work hard, play hard' culture, with strong academics and a significant Greek life scene."
+    },
+    "trusted_source_reviews": {
+      "rating": "4.3/5",
+      "text": "A highly-rated liberal arts college known for its beautiful campus, D-I athletics, and strong core curriculum. Colgate fosters close student-faculty relationships and has a loyal alumni base."
+    },
+    "average_sticker_price": "$87,315",
+    "average_price_after_aid": "$26,712",
+    "distance_from_charlotte_nc": {
+      "miles": 690,
+      "hours_by_car": 11.2
+    },
+    "distance_from_nearest_big_city": {
+      "city": "Syracuse, NY",
+      "miles": 40,
+      "hours_by_car": 0.8
+    },
+    "has_business_school": false,
+    "attractions_near_college": [
+      "Seven Oaks Golf Course",
+      "Lake Moraine",
+      "Erie Canal Museum (Syracuse)",
+      "Cooperstown (Baseball Hall of Fame)",
+      "Chittenango Falls State Park",
+      "Finger Lakes region",
+      "Adirondack Mountains",
+      "Turning Stone Resort Casino"
+    ],
+    "map_embed_link": "https://maps.google.com/maps?q=Colgate+University&t=&z=13&ie=UTF8&iwloc=&output=embed",
+    "descriptor_tags": [
+      "liberal-arts",
+      "private-university",
+      "rural-campus",
+      "beautiful-campus",
+      "vibrant-greek-life",
+      "work-hard-play-hard",
+      "small-school",
+      "highly-selective"
+    ],
+    "questbridge_partner": true,
+    "logo_link": "https://logo.clearbit.com/colgate.edu"
+  },
+  {
+    "name": "University of Wisconsin-Madison",
+    "location": "Madison, Wisconsin",
+    "founding_date": 1848,
+    "website": "https://www.wisc.edu/",
+    "community_reviews": {
+      "rating": "4.4/5",
+      "text": "Madison is consistently ranked one of the best college towns. Students love the 'work hard, play hard' vibe, the beautiful campus on an isthmus between two lakes, and the immense school spirit. The social scene is lively, and academics are rigorous."
+    },
+    "trusted_source_reviews": {
+      "rating": "4.5/5",
+      "text": "A 'Public Ivy' and a world-class research university, UW-Madison excels in a wide range of fields from life sciences to sociology. It offers a quintessential Big Ten experience in a vibrant, progressive city."
+    },
+    "average_sticker_price": "$59,664",
+    "average_price_after_aid": "$14,030",
+    "distance_from_charlotte_nc": {
+      "miles": 870,
+      "hours_by_car": 13.0
+    },
+    "distance_from_nearest_big_city": {
+      "city": "Milwaukee, WI",
+      "miles": 80,
+      "hours_by_car": 1.3
+    },
+    "has_business_school": true,
+    "attractions_near_college": [
+      "Memorial Union Terrace on Lake Mendota",
+      "State Street pedestrian mall",
+      "Wisconsin State Capitol",
+      "Camp Randall Stadium",
+      "Dane County Farmers' Market",
+      "Olbrich Botanical Gardens",
+      "Henry Vilas Zoo",
+      "Devil's Lake State Park"
+    ],
+    "map_embed_link": "https://maps.google.com/maps?q=University+of+Wisconsin-Madison&t=&z=13&ie=UTF8&iwloc=&output=embed",
+    "descriptor_tags": [
+      "public-university",
+      "public-ivy",
+      "large-school",
+      "college-town",
+      "sports-culture",
+      "research-heavy",
+      "work-hard-play-hard",
+      "midwest-friendly"
+    ],
+    "questbridge_partner": false,
+    "logo_link": "https://logo.clearbit.com/wisc.edu"
+  },
+  {
+    "name": "Case Western Reserve University",
+    "location": "Cleveland, Ohio",
+    "founding_date": 1826,
+    "website": "https://case.edu/",
+    "community_reviews": {
+      "rating": "3.9/5",
+      "text": "Students describe the culture as nerdy, collaborative, and academically focused, especially in STEM and pre-med. The university's location in University Circle provides incredible access to museums and cultural institutions."
+    },
+    "trusted_source_reviews": {
+      "rating": "4.3/5",
+      "text": "A top private research university known for its strong programs in engineering, nursing, and medicine, with close ties to the renowned Cleveland Clinic. CWRU emphasizes experiential learning and undergraduate research."
+    },
+    "average_sticker_price": "$82,754",
+    "average_price_after_aid": "$32,879",
+    "distance_from_charlotte_nc": {
+      "miles": 480,
+      "hours_by_car": 7.5
+    },
+    "distance_from_nearest_big_city": {
+      "city": "Cleveland, OH",
+      "miles": 0,
+      "hours_by_car": 0.0
+    },
+    "has_business_school": true,
+    "attractions_near_college": [
+      "Cleveland Museum of Art",
+      "Cleveland Orchestra at Severance Hall",
+      "Cleveland Museum of Natural History",
+      "Rock & Roll Hall of Fame",
+      "Great Lakes Science Center",
+      "West Side Market",
+      "Progressive Field (Guardians)",
+      "Cuyahoga Valley National Park"
+    ],
+    "map_embed_link": "https://maps.google.com/maps?q=Case+Western+Reserve+University&t=&z=13&ie=UTF8&iwloc=&output=embed",
+    "descriptor_tags": [
+      "private-university",
+      "urban-campus",
+      "research-heavy",
+      "stem-focused",
+      "pre-med-track",
+      "engineering-powerhouse",
+      "collaborative-environment",
+      "midwest-friendly"
+    ],
+    "questbridge_partner": true,
+    "logo_link": "https://logo.clearbit.com/case.edu"
+  },
+  {
+    "name": "Northeastern University",
+    "location": "Boston, Massachusetts",
+    "founding_date": 1898,
+    "website": "https://www.northeastern.edu/",
+    "community_reviews": {
+      "rating": "4.1/5",
+      "text": "The co-op program is the defining feature and is universally praised for providing incredible real-world experience. Students are career-driven, independent, and take full advantage of being in Boston. The campus feels modern and integrated with the city."
+    },
+    "trusted_source_reviews": {
+      "rating": "4.4/5",
+      "text": "A leader in experiential learning, Northeastern is famous for its extensive co-op program, which integrates professional work experience into the curriculum. It's a large, private research university in the heart of Boston."
+    },
+    "average_sticker_price": "$86,540",
+    "average_price_after_aid": "$35,639",
+    "distance_from_charlotte_nc": {
+      "miles": 840,
+      "hours_by_car": 13.2
+    },
+    "distance_from_nearest_big_city": {
+      "city": "Boston, MA",
+      "miles": 0,
+      "hours_by_car": 0.0
+    },
+    "has_business_school": true,
+    "attractions_near_college": [
+      "Museum of Fine Arts, Boston",
+      "Isabella Stewart Gardner Museum",
+      "Fenway Park",
+      "Symphony Hall",
+      "Newbury Street shopping",
+      "Freedom Trail",
+      "Faneuil Hall Marketplace",
+      "Prudential Center"
+    ],
+    "map_embed_link": "https://maps.google.com/maps?q=Northeastern+University&t=&z=13&ie=UTF8&iwloc=&output=embed",
+    "descriptor_tags": [
+      "private-university",
+      "urban-campus",
+      "co-op-program",
+      "research-heavy",
+      "large-school",
+      "east-coast-energy",
+      "modern-facilities",
+      "business-focused"
+    ],
+    "questbridge_partner": false,
+    "logo_link": "https://logo.clearbit.com/northeastern.edu"
+  },
+  {
+    "name": "University of Rochester",
+    "location": "Rochester, New York",
+    "founding_date": 1850,
+    "website": "https://www.rochester.edu/",
+    "community_reviews": {
+      "rating": "4.0/5",
+      "text": "Known for its flexible curriculum with no required subjects, appealing to self-motivated students. The Eastman School of Music is world-class. The culture is seen as nerdy and collaborative, with a strong research focus."
+    },
+    "trusted_source_reviews": {
+      "rating": "4.3/5",
+      "text": "A top private research university with a unique open curriculum that encourages interdisciplinary study. Rochester is particularly strong in optics, political science, and music (Eastman School)."
+    },
+    "average_sticker_price": "$86,348",
+    "average_price_after_aid": "$35,886",
+    "distance_from_charlotte_nc": {
+      "miles": 650,
+      "hours_by_car": 10.5
+    },
+    "distance_from_nearest_big_city": {
+      "city": "Buffalo, NY",
+      "miles": 75,
+      "hours_by_car": 1.2
+    },
+    "has_business_school": true,
+    "attractions_near_college": [
+      "The Strong National Museum of Play",
+      "George Eastman Museum",
+      "Highland Park",
+      "Eastman Theatre",
+      "Susan B. Anthony Museum & House",
+      "Niagara Falls State Park",
+      "Finger Lakes wine region",
+      "Letchworth State Park"
+    ],
+    "map_embed_link": "https://maps.google.com/maps?q=University+of+Rochester&t=&z=13&ie=UTF8&iwloc=&output=embed",
+    "descriptor_tags": [
+      "private-university",
+      "research-heavy",
+      "medium-school",
+      "suburban-campus",
+      "stem-focused",
+      "artsy-vibe",
+      "collaborative-environment",
+      "humanities-strong"
+    ],
+    "questbridge_partner": false,
+    "logo_link": "https://logo.clearbit.com/rochester.edu"
+  },
+  {
+    "name": "Purdue University",
+    "location": "West Lafayette, Indiana",
+    "founding_date": 1869,
+    "website": "https://www.purdue.edu/",
+    "community_reviews": {
+      "rating": "4.2/5",
+      "text": "An engineering and aviation powerhouse with a huge, spirited student body. The culture is down-to-earth, hardworking, and very focused on STEM. It's a classic Big Ten school in a true college town."
+    },
+    "trusted_source_reviews": {
+      "rating": "4.4/5",
+      "text": "A top public research university known as the 'Cradle of Astronauts.' Purdue offers elite, affordable programs in engineering, aviation, and agriculture, with a strong emphasis on practical, hands-on learning."
+    },
+    "average_sticker_price": "$46,312",
+    "average_price_after_aid": "$12,453",
+    "distance_from_charlotte_nc": {
+      "miles": 540,
+      "hours_by_car": 8.5
+    },
+    "distance_from_nearest_big_city": {
+      "city": "Indianapolis, IN",
+      "miles": 65,
+      "hours_by_car": 1.1
+    },
+    "has_business_school": true,
+    "attractions_near_college": [
+      "Purdue University Horticulture Gardens",
+      "Ross-Ade Stadium",
+      "Mackey Arena",
+      "Wolf Park",
+      "Indianapolis Motor Speedway",
+      "The Children's Museum of Indianapolis",
+      "Tippecanoe Battlefield Museum",
+      "Prophetstown State Park"
+    ],
+    "map_embed_link": "https://maps.google.com/maps?q=Purdue+University&t=&z=13&ie=UTF8&iwloc=&output=embed",
+    "descriptor_tags": [
+      "public-university",
+      "large-school",
+      "college-town",
+      "stem-focused",
+      "engineering-powerhouse",
+      "research-heavy",
+      "good-value",
+      "midwest-friendly"
+    ],
+    "questbridge_partner": false,
+    "logo_link": "https://logo.clearbit.com/purdue.edu"
+  },
+  {
+    "name": "Boston University",
+    "location": "Boston, Massachusetts",
+    "founding_date": 1839,
+    "website": "https://www.bu.edu/",
+    "community_reviews": {
+      "rating": "4.0/5",
+      "text": "A large, urban university that feels like an integral part of Boston. Students are independent and career-focused, taking advantage of the city's opportunities. The campus stretches along the Charles River, offering great views and city access."
+    },
+    "trusted_source_reviews": {
+      "rating": "4.3/5",
+      "text": "A major private research university offering a vast array of programs and a strong emphasis on study abroad. BU provides a dynamic urban education with significant research opportunities in a world-class city."
+    },
+    "average_sticker_price": "$86,338",
+    "average_price_after_aid": "$29,409",
+    "distance_from_charlotte_nc": {
+      "miles": 840,
+      "hours_by_car": 13.2
+    },
+    "distance_from_nearest_big_city": {
+      "city": "Boston, MA",
+      "miles": 0,
+      "hours_by_car": 0.0
+    },
+    "has_business_school": true,
+    "attractions_near_college": [
+      "Fenway Park",
+      "Museum of Fine Arts, Boston",
+      "Charles River Esplanade",
+      "Newbury Street",
+      "Freedom Trail",
+      "Faneuil Hall Marketplace",
+      "Isabella Stewart Gardner Museum",
+      "Boston Public Library"
+    ],
+    "map_embed_link": "https://maps.google.com/maps?q=Boston+University&t=&z=13&ie=UTF8&iwloc=&output=embed",
+    "descriptor_tags": [
+      "private-university",
+      "urban-campus",
+      "large-school",
+      "research-heavy",
+      "study-abroad-popular",
+      "east-coast-energy",
+      "international-focus",
+      "diverse-student-body"
+    ],
+    "questbridge_partner": true,
+    "logo_link": "https://logo.clearbit.com/bu.edu"
+  },
+  {
+    "name": "Rensselaer Polytechnic Institute",
+    "location": "Troy, New York",
+    "founding_date": 1824,
+    "website": "https://www.rpi.edu/",
+    "community_reviews": {
+      "rating": "3.8/5",
+      "text": "RPI is known for its rigorous, hands-on STEM curriculum. Students are smart, focused, and often quirky. The culture is academically intense, and the motto 'Why not change the world?' reflects the innovative spirit."
+    },
+    "trusted_source_reviews": {
+      "rating": "4.1/5",
+      "text": "The nation's oldest technological research university, RPI is a top choice for engineering, computer science, and applied sciences. It emphasizes hands-on learning and cutting-edge research."
+    },
+    "average_sticker_price": "$82,785",
+    "average_price_after_aid": "$40,317",
+    "distance_from_charlotte_nc": {
+      "miles": 760,
+      "hours_by_car": 12.0
+    },
+    "distance_from_nearest_big_city": {
+      "city": "Albany, NY",
+      "miles": 8,
+      "hours_by_car": 0.2
+    },
+    "has_business_school": true,
+    "attractions_near_college": [
+      "Troy Waterfront Farmers Market",
+      "New York State Museum (Albany)",
+      "The Egg Performing Arts Center (Albany)",
+      "USS Slater DE-766",
+      "Saratoga Spa State Park",
+      "Saratoga Performing Arts Center (SPAC)",
+      "Lake George",
+      "MASS MoCA"
+    ],
+    "map_embed_link": "https://maps.google.com/maps?q=Rensselaer+Polytechnic+Institute&t=&z=13&ie=UTF8&iwloc=&output=embed",
+    "descriptor_tags": [
+      "private-university",
+      "technical-institute",
+      "stem-focused",
+      "engineering-powerhouse",
+      "research-heavy",
+      "urban-campus",
+      "state-of-the-art-labs",
+      "competitive-academics"
+    ],
+    "questbridge_partner": false,
+    "logo_link": "https://logo.clearbit.com/rpi.edu"
+  },
+  {
+    "name": "Tulane University",
+    "location": "New Orleans, Louisiana",
+    "founding_date": 1834,
+    "website": "https://tulane.edu/",
+    "community_reviews": {
+      "rating": "4.2/5",
+      "text": "Students are drawn to the unique culture of New Orleans and the 'work hard, play hard' atmosphere. There is a strong emphasis on public service and community engagement. The social scene is vibrant and integrated with the city."
+    },
+    "trusted_source_reviews": {
+      "rating": "4.3/5",
+      "text": "A top private research university located in vibrant New Orleans. Tulane is known for its strong programs in architecture, public health, and Latin American studies, and it has a public service graduation requirement."
+    },
+    "average_sticker_price": "$85,388",
+    "average_price_after_aid": "$37,273",
+    "distance_from_charlotte_nc": {
+      "miles": 700,
+      "hours_by_car": 10.5
+    },
+    "distance_from_nearest_big_city": {
+      "city": "New Orleans, LA",
+      "miles": 0,
+      "hours_by_car": 0.0
+    },
+    "has_business_school": true,
+    "attractions_near_college": [
+      "The French Quarter",
+      "Audubon Park and Zoo",
+      "National WWII Museum",
+      "Mardi Gras World",
+      "Jackson Square",
+      "Preservation Hall",
+      "New Orleans Museum of Art",
+      "Garden District"
+    ],
+    "map_embed_link": "https://maps.google.com/maps?q=Tulane+University&t=&z=13&ie=UTF8&iwloc=&output=embed",
+    "descriptor_tags": [
+      "private-university",
+      "urban-campus",
+      "work-hard-play-hard",
+      "vibrant-greek-life",
+      "southern-charm",
+      "artsy-vibe",
+      "research-heavy",
+      "highly-selective"
+    ],
+    "questbridge_partner": false,
+    "logo_link": "https://logo.clearbit.com/tulane.edu"
+  },
+  {
+    "name": "The Ohio State University",
+    "location": "Columbus, Ohio",
+    "founding_date": 1870,
+    "website": "https://www.osu.edu/",
+    "community_reviews": {
+      "rating": "4.3/5",
+      "text": "THE quintessential big state school experience. School spirit is off the charts, especially for football. The campus is massive, but students find their niche. There's an incredible variety of academic programs and extracurriculars."
+    },
+    "trusted_source_reviews": {
+      "rating": "4.3/5",
+      "text": "A top-ranked public university and a massive research institution. Ohio State offers a huge array of high-quality programs and has one of the largest and most passionate alumni networks in the country."
+    },
+    "average_sticker_price": "$55,214",
+    "average_price_after_aid": "$19,582",
+    "distance_from_charlotte_nc": {
+      "miles": 400,
+      "hours_by_car": 6.2
+    },
+    "distance_from_nearest_big_city": {
+      "city": "Columbus, OH",
+      "miles": 0,
+      "hours_by_car": 0.0
+    },
+    "has_business_school": true,
+    "attractions_near_college": [
+      "Ohio Stadium ('The Horseshoe')",
+      "Short North Arts District",
+      "COSI (Center of Science and Industry)",
+      "German Village",
+      "Franklin Park Conservatory and Botanical Gardens",
+      "Columbus Zoo and Aquarium",
+      "North Market Downtown",
+      "Easton Town Center"
+    ],
+    "map_embed_link": "https://maps.google.com/maps?q=The+Ohio+State+University&t=&z=13&ie=UTF8&iwloc=&output=embed",
+    "descriptor_tags": [
+      "public-university",
+      "large-school",
+      "urban-campus",
+      "sports-culture",
+      "research-heavy",
+      "midwest-friendly",
+      "business-focused",
+      "vibrant-greek-life"
+    ],
+    "questbridge_partner": false,
+    "logo_link": "https://logo.clearbit.com/osu.edu"
+  },
+  {
+    "name": "University of Georgia",
+    "location": "Athens, Georgia",
+    "founding_date": 1785,
+    "website": "https://www.uga.edu/",
+    "community_reviews": {
+      "rating": "4.4/5",
+      "text": "Students love the classic college town atmosphere of Athens, the passionate football culture, and the beautiful historic campus. The social scene is dominated by Greek life and downtown nightlife. Academics are strong, particularly in journalism and business."
+    },
+    "trusted_source_reviews": {
+      "rating": "4.2/5",
+      "text": "The birthplace of public higher education in America, UGA is a leading public research university. It's known for its strong school spirit, beautiful campus, and top-ranked programs like journalism (Grady) and landscape architecture."
+    },
+    "average_sticker_price": "$52,298",
+    "average_price_after_aid": "$17,180",
+    "distance_from_charlotte_nc": {
+      "miles": 220,
+      "hours_by_car": 3.5
+    },
+    "distance_from_nearest_big_city": {
+      "city": "Atlanta, GA",
+      "miles": 70,
+      "hours_by_car": 1.3
+    },
+    "has_business_school": true,
+    "attractions_near_college": [
+      "Downtown Athens music scene (40 Watt Club, Georgia Theatre)",
+      "Sanford Stadium",
+      "State Botanical Garden of Georgia",
+      "North Campus historic district",
+      "Georgia Museum of Art",
+      "Creature Comforts Brewing Co.",
+      "The Tree That Owns Itself",
+      "Bear Hollow Zoo"
+    ],
+    "map_embed_link": "https://maps.google.com/maps?q=University+of+Georgia&t=&z=13&ie=UTF8&iwloc=&output=embed",
+    "descriptor_tags": [
+      "public-university",
+      "large-school",
+      "college-town",
+      "sports-culture",
+      "vibrant-greek-life",
+      "southern-charm",
+      "beautiful-campus",
+      "good-value"
+    ],
+    "questbridge_partner": false,
+    "logo_link": "https://logo.clearbit.com/uga.edu"
+  },
+  {
+    "name": "Villanova University",
+    "location": "Villanova, Pennsylvania",
+    "founding_date": 1842,
+    "website": "https://www1.villanova.edu/",
+    "community_reviews": {
+      "rating": "4.3/5",
+      "text": "The Augustinian Catholic values of community and service are central to the culture. School spirit, especially for basketball, is a huge part of the experience. Students are generally collaborative, friendly, and pre-professional."
+    },
+    "trusted_source_reviews": {
+      "rating": "4.3/5",
+      "text": "The nation's only Augustinian Catholic university, Villanova is highly regarded for its business school, nursing program, and strong sense of community. It combines rigorous academics with a commitment to service."
+    },
+    "average_sticker_price": "$83,550",
+    "average_price_after_aid": "$34,813",
+    "distance_from_charlotte_nc": {
+      "miles": 520,
+      "hours_by_car": 8.3
+    },
+    "distance_from_nearest_big_city": {
+      "city": "Philadelphia, PA",
+      "miles": 14,
+      "hours_by_car": 0.4
+    },
+    "has_business_school": true,
+    "attractions_near_college": [
+      "King of Prussia Mall",
+      "Valley Forge National Historical Park",
+      "Chanticleer Garden",
+      "Downtown Philadelphia attractions",
+      "Philadelphia Museum of Art",
+      "Reading Terminal Market",
+      "Citizens Bank Park",
+      "Longwood Gardens"
+    ],
+    "map_embed_link": "https://maps.google.com/maps?q=Villanova+University&t=&z=13&ie=UTF8&iwloc=&output=embed",
+    "descriptor_tags": [
+      "private-university",
+      "suburban-campus",
+      "sports-culture",
+      "business-focused",
+      "catholic-university",
+      "work-hard-play-hard",
+      "beautiful-campus",
+      "medium-school"
+    ],
+    "questbridge_partner": false,
+    "logo_link": "https://logo.clearbit.com/villanova.edu"
+  },
+  {
+    "name": "University of Maryland, College Park",
+    "location": "College Park, Maryland",
+    "founding_date": 1856,
+    "website": "https://www.umd.edu/",
+    "community_reviews": {
+      "rating": "4.1/5",
+      "text": "A large, diverse public school with a great location near Washington D.C. This provides amazing internship opportunities. The campus has a classic college feel with strong school spirit. Academics are strong, especially in engineering and computer science."
+    },
+    "trusted_source_reviews": {
+      "rating": "4.2/5",
+      "text": "The flagship campus of Maryland's public university system, UMD is a top research institution with close ties to federal government agencies. It's a leader in engineering, computer science, and business."
+    },
+    "average_sticker_price": "$61,044",
+    "average_price_after_aid": "$17,969",
+    "distance_from_charlotte_nc": {
+      "miles": 405,
+      "hours_by_car": 6.5
+    },
+    "distance_from_nearest_big_city": {
+      "city": "Washington, D.C.",
+      "miles": 9,
+      "hours_by_car": 0.3
+    },
+    "has_business_school": true,
+    "attractions_near_college": [
+      "Washington D.C. monuments and museums",
+      "The National Mall",
+      "Smithsonian National Air and Space Museum",
+      "National Gallery of Art",
+      "The White House",
+      "U.S. Capitol",
+      "Baltimore's Inner Harbor",
+      "NASA Goddard Space Flight Center"
+    ],
+    "map_embed_link": "https://maps.google.com/maps?q=University+of+Maryland,+College+Park&t=&z=13&ie=UTF8&iwloc=&output=embed",
+    "descriptor_tags": [
+      "public-university",
+      "large-school",
+      "suburban-campus",
+      "research-heavy",
+      "engineering-powerhouse",
+      "diverse-student-body",
+      "sports-culture",
+      "good-value"
+    ],
+    "questbridge_partner": false,
+    "logo_link": "https://logo.clearbit.com/umd.edu"
+  },
+  {
+    "name": "University of Washington",
+    "location": "Seattle, Washington",
+    "founding_date": 1861,
+    "website": "https://www.washington.edu/",
+    "community_reviews": {
+      "rating": "4.2/5",
+      "text": "Students love the beautiful campus, especially in the spring with the cherry blossoms. The location in Seattle offers great access to both city life and stunning natural scenery. Academics are competitive, especially for popular majors like CS."
+    },
+    "trusted_source_reviews": {
+      "rating": "4.4/5",
+      "text": "A top public research university, often called a 'Public Ivy,' with close ties to Seattle's tech industry (Amazon, Microsoft). UW is a global leader in medicine, computer science, and engineering."
+    },
+    "average_sticker_price": "$65,049",
+    "average_price_after_aid": "$10,613",
+    "distance_from_charlotte_nc": {
+      "miles": 2800,
+      "hours_by_car": 41.0
+    },
+    "distance_from_nearest_big_city": {
+      "city": "Seattle, WA",
+      "miles": 0,
+      "hours_by_car": 0.0
+    },
+    "has_business_school": true,
+    "attractions_near_college": [
+      "Pike Place Market",
+      "Space Needle",
+      "Chihuly Garden and Glass",
+      "Museum of Pop Culture (MoPOP)",
+      "Discovery Park",
+      "Kerry Park for city views",
+      "Mount Rainier National Park",
+      "Olympic National Park"
+    ],
+    "map_embed_link": "https://maps.google.com/maps?q=University+of+Washington&t=&z=13&ie=UTF8&iwloc=&output=embed",
+    "descriptor_tags": [
+      "public-university",
+      "public-ivy",
+      "large-school",
+      "urban-campus",
+      "research-heavy",
+      "stem-focused",
+      "beautiful-campus",
+      "west-coast-vibe"
+    ],
+    "questbridge_partner": false,
+    "logo_link": "https://logo.clearbit.com/washington.edu"
+  },
+  {
+    "name": "Lehigh University",
+    "location": "Bethlehem, Pennsylvania",
+    "founding_date": 1865,
+    "website": "https://www1.lehigh.edu/",
+    "community_reviews": {
+      "rating": "4.0/5",
+      "text": "Known for its strong engineering programs and a 'work hard, play hard' culture. The campus is built on a mountain, so be prepared for hills. Greek life is a very prominent part of the social scene."
+    },
+    "trusted_source_reviews": {
+      "rating": "4.2/5",
+      "text": "A private research university that excels in business and engineering. Lehigh is known for its beautiful hillside campus, entrepreneurial spirit, and strong connections to industry."
+    },
+    "average_sticker_price": "$79,780",
+    "average_price_after_aid": "$31,489",
+    "distance_from_charlotte_nc": {
+      "miles": 580,
+      "hours_by_car": 9.0
+    },
+    "distance_from_nearest_big_city": {
+      "city": "Philadelphia, PA",
+      "miles": 60,
+      "hours_by_car": 1.2
+    },
+    "has_business_school": true,
+    "attractions_near_college": [
+      "SteelStacks arts and culture campus",
+      "Wind Creek Bethlehem casino",
+      "Historic Bethlehem Museums & Sites",
+      "Dorney Park & Wildwater Kingdom",
+      "Crayola Experience",
+      "Delaware Water Gap National Recreation Area",
+      "Pocono Mountains",
+      "Martin Guitar Factory Tour"
+    ],
+    "map_embed_link": "https://maps.google.com/maps?q=Lehigh+University&t=&z=13&ie=UTF8&iwloc=&output=embed",
+    "descriptor_tags": [
+      "private-university",
+      "suburban-campus",
+      "engineering-powerhouse",
+      "work-hard-play-hard",
+      "vibrant-greek-life",
+      "beautiful-campus",
+      "medium-school",
+      "business-focused"
+    ],
+    "questbridge_partner": false,
+    "logo_link": "https://logo.clearbit.com/lehigh.edu"
+  },
+  {
+    "name": "Texas A&M University",
+    "location": "College Station, Texas",
+    "founding_date": 1876,
+    "website": "https://www.tamu.edu/",
+    "community_reviews": {
+      "rating": "4.5/5",
+      "text": "Tradition, respect, and camaraderie are the hallmarks of A&M. The school spirit is legendary, and the Aggie Network is incredibly powerful. It's a conservative, friendly, and patriotic campus culture in a true college town."
+    },
+    "trusted_source_reviews": {
+      "rating": "4.2/5",
+      "text": "A massive public research university with deep roots as a military and agricultural college. Texas A&M is a leader in engineering, agriculture, and veterinary medicine, known for its powerful traditions and loyal alumni network."
+    },
+    "average_sticker_price": "$56,762",
+    "average_price_after_aid": "$20,938",
+    "distance_from_charlotte_nc": {
+      "miles": 1050,
+      "hours_by_car": 15.5
+    },
+    "distance_from_nearest_big_city": {
+      "city": "Houston, TX",
+      "miles": 95,
+      "hours_by_car": 1.5
+    },
+    "has_business_school": true,
+    "attractions_near_college": [
+      "Kyle Field",
+      "George H.W. Bush Presidential Library and Museum",
+      "Bonfire Memorial",
+      "Sam Houston National Forest",
+      "Texas World Speedway",
+      "Blue Bell Creameries (Brenham)",
+      "Washington-on-the-Brazos State Historic Site",
+      "Houston Space Center"
+    ],
+    "map_embed_link": "https://maps.google.com/maps?q=Texas+A&M+University&t=&z=13&ie=UTF8&iwloc=&output=embed",
+    "descriptor_tags": [
+      "public-university",
+      "large-school",
+      "college-town",
+      "sports-culture",
+      "engineering-powerhouse",
+      "politically-conservative",
+      "vibrant-greek-life",
+      "research-heavy"
+    ],
+    "questbridge_partner": false,
+    "logo_link": "https://logo.clearbit.com/tamu.edu"
+  },
+  {
+    "name": "University of California, Davis",
+    "location": "Davis, California",
+    "founding_date": 1905,
+    "website": "https://www.ucdavis.edu/",
+    "community_reviews": {
+      "rating": "4.3/5",
+      "text": "Known for its friendly, laid-back, and collaborative atmosphere. Davis is a quintessential college town where bikes are the main mode of transportation. Students praise the strong sense of community and the focus on sustainability."
+    },
+    "trusted_source_reviews": {
+      "rating": "4.3/5",
+      "text": "A 'Public Ivy' and a world leader in veterinary medicine, agriculture, and environmental sciences. UC Davis provides a top-tier education with a friendly, less competitive vibe than some other UCs."
+    },
+    "average_sticker_price": "$70,962",
+    "average_price_after_aid": "$17,339",
+    "distance_from_charlotte_nc": {
+      "miles": 2650,
+      "hours_by_car": 39.0
+    },
+    "distance_from_nearest_big_city": {
+      "city": "Sacramento, CA",
+      "miles": 15,
+      "hours_by_car": 0.3
+    },
+    "has_business_school": true,
+    "attractions_near_college": [
+      "UC Davis Arboretum and Public Garden",
+      "Davis Farmers Market",
+      "Old Sacramento Waterfront",
+      "California State Railroad Museum",
+      "Napa Valley wine country",
+      "Lake Tahoe",
+      "San Francisco",
+      "California State Capitol Museum"
+    ],
+    "map_embed_link": "https://maps.google.com/maps?q=University+of+California,+Davis&t=&z=13&ie=UTF8&iwloc=&output=embed",
+    "descriptor_tags": [
+      "public-university",
+      "public-ivy",
+      "large-school",
+      "college-town",
+      "research-heavy",
+      "stem-focused",
+      "collaborative-environment",
+      "west-coast-vibe"
+    ],
+    "questbridge_partner": false,
+    "logo_link": "https://logo.clearbit.com/ucdavis.edu"
+  },
+  {
+    "name": "University of California, San Diego",
+    "location": "La Jolla, California",
+    "founding_date": 1960,
+    "website": "https://ucsd.edu/",
+    "community_reviews": {
+      "rating": "4.1/5",
+      "text": "UCSD is known for being academically intense, especially in the sciences. The residential college system is unique but can lead to a socially segregated feel. Students love the beautiful location in La Jolla, right by the beach."
+    },
+    "trusted_source_reviews": {
+      "rating": "4.4/5",
+      "text": "A top-ranked 'Public Ivy' that is a powerhouse in scientific research, particularly in biology, medicine, and oceanography (Scripps Institution). Its location in the La Jolla biotech hub is a major advantage."
+    },
+    "average_sticker_price": "$72,192",
+    "average_price_after_aid": "$16,078",
+    "distance_from_charlotte_nc": {
+      "miles": 2400,
+      "hours_by_car": 35.0
+    },
+    "distance_from_nearest_big_city": {
+      "city": "San Diego, CA",
+      "miles": 13,
+      "hours_by_car": 0.3
+    },
+    "has_business_school": true,
+    "attractions_near_college": [
+      "La Jolla Cove",
+      "Torrey Pines State Natural Reserve",
+      "Balboa Park (museums and zoo)",
+      "San Diego Zoo",
+      "USS Midway Museum",
+      "Coronado Island",
+      "Gaslamp Quarter",
+      "Cabrillo National Monument"
+    ],
+    "map_embed_link": "https://maps.google.com/maps?q=University+of+California,+San+Diego&t=&z=13&ie=UTF8&iwloc=&output=embed",
+    "descriptor_tags": [
+      "public-university",
+      "public-ivy",
+      "large-school",
+      "suburban-campus",
+      "research-heavy",
+      "stem-focused",
+      "coastal-campus",
+      "beautiful-campus"
+    ],
+    "questbridge_partner": false,
+    "logo_link": "https://logo.clearbit.com/ucsd.edu"
+  },
+  {
+    "name": "William & Mary",
+    "location": "Williamsburg, Virginia",
+    "founding_date": 1693,
+    "website": "https://www.wm.edu/",
+    "community_reviews": {
+      "rating": "4.2/5",
+      "text": "Students are quirky, intellectual, and passionate about the school's rich history and traditions. The campus is beautiful and integrated with Colonial Williamsburg. Academics are rigorous with a strong liberal arts focus."
+    },
+    "trusted_source_reviews": {
+      "rating": "4.2/5",
+      "text": "The second-oldest institution of higher learning in the U.S., William & Mary is a premier 'Public Ivy.' It offers a top-tier liberal arts education with a strong emphasis on undergraduate research and public service."
+    },
+    "average_sticker_price": "$66,854",
+    "average_price_after_aid": "$20,475",
+    "distance_from_charlotte_nc": {
+      "miles": 310,
+      "hours_by_car": 4.8
+    },
+    "distance_from_nearest_big_city": {
+      "city": "Richmond, VA",
+      "miles": 50,
+      "hours_by_car": 0.9
+    },
+    "has_business_school": true,
+    "attractions_near_college": [
+      "Colonial Williamsburg",
+      "Jamestown Settlement",
+      "American Revolution Museum at Yorktown",
+      "Busch Gardens Williamsburg",
+      "Water Country USA",
+      "Virginia Beach oceanfront",
+      "Historic Yorktown",
+      "Williamsburg Premium Outlets"
+    ],
+    "map_embed_link": "https://maps.google.com/maps?q=William+&+Mary&t=&z=13&ie=UTF8&iwloc=&output=embed",
+    "descriptor_tags": [
+      "public-university",
+      "public-ivy",
+      "medium-school",
+      "college-town",
+      "historic-architecture",
+      "beautiful-campus",
+      "quirky-students",
+      "liberal-arts"
+    ],
+    "questbridge_partner": false,
+    "logo_link": "https://logo.clearbit.com/wm.edu"
+  },
+  {
+    "name": "Brandeis University",
+    "location": "Waltham, Massachusetts",
+    "founding_date": 1948,
+    "website": "https://www.brandeis.edu/",
+    "community_reviews": {
+      "rating": "3.9/5",
+      "text": "Known for being intellectually rigorous and socially aware. The student body is progressive, and engaged in social justice issues. The school's Jewish roots are a foundation of its identity, but it's welcoming to all. Proximity to Boston is a plus."
+    },
+    "trusted_source_reviews": {
+      "rating": "4.1/5",
+      "text": "A relatively young private research university with a strong liberal arts focus and a commitment to social justice. Brandeis is noted for its strengths in the sciences and its inclusive, intellectual community."
+    },
+    "average_sticker_price": "$83,822",
+    "average_price_after_aid": "$35,934",
+    "distance_from_charlotte_nc": {
+      "miles": 840,
+      "hours_by_car": 13.2
+    },
+    "distance_from_nearest_big_city": {
+      "city": "Boston, MA",
+      "miles": 10,
+      "hours_by_car": 0.3
+    },
+    "has_business_school": true,
+    "attractions_near_college": [
+      "Downtown Boston",
+      "Freedom Trail",
+      "Museum of Fine Arts, Boston",
+      "Faneuil Hall Marketplace",
+      "Rose Art Museum",
+      "Charles River Museum of Industry & Innovation",
+      "Walden Pond State Reservation",
+      "Lexington and Concord historic sites"
+    ],
+    "map_embed_link": "https://maps.google.com/maps?q=Brandeis+University&t=&z=13&ie=UTF8&iwloc=&output=embed",
+    "descriptor_tags": [
+      "private-university",
+      "suburban-campus",
+      "research-heavy",
+      "politically-active",
+      "liberal-arts",
+      "medium-school",
+      "diverse-student-body",
+      "humanities-strong"
+    ],
+    "questbridge_partner": false,
+    "logo_link": "https://logo.clearbit.com/brandeis.edu"
+  },
+  {
+    "name": "University of California, Santa Barbara",
+    "location": "Santa Barbara, California",
+    "founding_date": 1891,
+    "website": "https://www.ucsb.edu/",
+    "community_reviews": {
+      "rating": "4.3/5",
+      "text": "Famous for its stunning location right on the beach and its 'work hard, play hard' social culture. The vibe is laid-back and outdoorsy. Academics are strong, especially in the sciences and engineering, but the quality of life is a huge draw."
+    },
+    "trusted_source_reviews": {
+      "rating": "4.3/5",
+      "text": "A top 'Public Ivy' known for its beautiful coastal campus and strengths in physics, engineering, and environmental science. UCSB combines a relaxed, scenic environment with high-powered research."
+    },
+    "average_sticker_price": "$72,611",
+    "average_price_after_aid": "$16,991",
+    "distance_from_charlotte_nc": {
+      "miles": 2500,
+      "hours_by_car": 36.0
+    },
+    "distance_from_nearest_big_city": {
+      "city": "Los Angeles, CA",
+      "miles": 100,
+      "hours_by_car": 1.8
+    },
+    "has_business_school": false,
+    "attractions_near_college": [
+      "Campus Point Beach",
+      "Isla Vista",
+      "Downtown Santa Barbara (State Street)",
+      "Stearns Wharf",
+      "Santa Barbara Mission",
+      "Channel Islands National Park",
+      "Santa Ynez Valley wine country",
+      "Lotusland"
+    ],
+    "map_embed_link": "https://maps.google.com/maps?q=University+of+California,+Santa+Barbara&t=&z=13&ie=UTF8&iwloc=&output=embed",
+    "descriptor_tags": [
+      "public-university",
+      "public-ivy",
+      "coastal-campus",
+      "beautiful-campus",
+      "west-coast-vibe",
+      "work-hard-play-hard",
+      "large-school",
+      "research-heavy"
+    ],
+    "questbridge_partner": false,
+    "logo_link": "https://logo.clearbit.com/ucsb.edu"
+  },
+  {
+    "name": "University of California, Irvine",
+    "location": "Irvine, California",
+    "founding_date": 1965,
+    "website": "https://uci.edu/",
+    "community_reviews": {
+      "rating": "4.1/5",
+      "text": "Located in a very safe, clean, but quiet suburban area. The campus is unique with its circular park design. UCI is known for being strong in biological sciences, computer science, and criminology. The culture is studious and diverse."
+    },
+    "trusted_source_reviews": {
+      "rating": "4.3/5",
+      "text": "A fast-rising 'Public Ivy' known for its strengths in computer science (especially for gaming), biological sciences, and criminology. UCI is praised for its commitment to sustainability and research."
+    },
+    "average_sticker_price": "$71,438",
+    "average_price_after_aid": "$12,251",
+    "distance_from_charlotte_nc": {
+      "miles": 2400,
+      "hours_by_car": 35.0
+    },
+    "distance_from_nearest_big_city": {
+      "city": "Los Angeles, CA",
+      "miles": 40,
+      "hours_by_car": 0.8
+    },
+    "has_business_school": true,
+    "attractions_near_college": [
+      "Disneyland Park",
+      "Newport Beach",
+      "Laguna Beach",
+      "Irvine Spectrum Center",
+      "South Coast Plaza",
+      "Angel Stadium of Anaheim",
+      "Knott's Berry Farm",
+      "Huntington Beach Pier"
+    ],
+    "map_embed_link": "https://maps.google.com/maps?q=University+of+California,+Irvine&t=&z=13&ie=UTF8&iwloc=&output=embed",
+    "descriptor_tags": [
+      "public-university",
+      "public-ivy",
+      "large-school",
+      "suburban-campus",
+      "research-heavy",
+      "stem-focused",
+      "diverse-student-body",
+      "safe-campus"
+    ],
+    "questbridge_partner": false,
+    "logo_link": "https://logo.clearbit.com/uci.edu"
+  },
+  {
+    "name": "University of Miami",
+    "location": "Coral Gables, Florida",
+    "founding_date": 1925,
+    "website": "https://welcome.miami.edu/",
+    "community_reviews": {
+      "rating": "4.0/5",
+      "text": "Students love the beautiful campus, sunny weather, and vibrant culture of Miami. The student body is diverse, with a large international population. The atmosphere is social and energetic, with strong programs in marine science and business."
+    },
+    "trusted_source_reviews": {
+      "rating": "4.1/5",
+      "text": "A private research university with a prime location in the Miami metro area. 'The U' is renowned for its Rosenstiel School of Marine, Atmospheric, and Earth Science, as well as strong programs in music and medicine."
+    },
+    "average_sticker_price": "$81,520",
+    "average_price_after_aid": "$32,321",
+    "distance_from_charlotte_nc": {
+      "miles": 760,
+      "hours_by_car": 11.0
+    },
+    "distance_from_nearest_big_city": {
+      "city": "Miami, FL",
+      "miles": 7,
+      "hours_by_car": 0.25
+    },
+    "has_business_school": true,
+    "attractions_near_college": [
+      "South Beach",
+      "Wynwood Walls",
+      "Everglades National Park",
+      "Vizcaya Museum & Gardens",
+      "Bayside Marketplace",
+      "Little Havana",
+      "Key Biscayne",
+      "Hard Rock Stadium"
+    ],
+    "map_embed_link": "https://maps.google.com/maps?q=University+of+Miami&t=&z=13&ie=UTF8&iwloc=&output=embed",
+    "descriptor_tags": [
+      "private-university",
+      "suburban-campus",
+      "research-heavy",
+      "sports-culture",
+      "diverse-student-body",
+      "international-focus",
+      "coastal-campus",
+      "beautiful-campus"
+    ],
+    "questbridge_partner": false,
+    "logo_link": "https://logo.clearbit.com/miami.edu"
+  },
+  {
+    "name": "Pepperdine University",
+    "location": "Malibu, California",
+    "founding_date": 1937,
+    "website": "https://www.pepperdine.edu/",
+    "community_reviews": {
+      "rating": "3.8/5",
+      "text": "The stunning ocean views are unbeatable. The campus is conservative due to its Church of Christ affiliation, with strict rules (e.g., a dry campus). Students are generally friendly and outdoorsy. The small class sizes are a major benefit."
+    },
+    "trusted_source_reviews": {
+      "rating": "3.9/5",
+      "text": "A private Christian university famous for its breathtaking Malibu campus overlooking the Pacific Ocean. Pepperdine is known for its strong international programs, communication school, and law school."
+    },
+    "average_sticker_price": "$88,610",
+    "average_price_after_aid": "$37,341",
+    "distance_from_charlotte_nc": {
+      "miles": 2450,
+      "hours_by_car": 35.0
+    },
+    "distance_from_nearest_big_city": {
+      "city": "Los Angeles, CA",
+      "miles": 30,
+      "hours_by_car": 0.7
+    },
+    "has_business_school": true,
+    "attractions_near_college": [
+      "Zuma Beach",
+      "Malibu Pier",
+      "The Getty Villa",
+      "Santa Monica Pier",
+      "Point Dume State Beach",
+      "Malibu Creek State Park",
+      "Solstice Canyon",
+      "El Matador State Beach"
+    ],
+    "map_embed_link": "https://maps.google.com/maps?q=Pepperdine+University&t=&z=13&ie=UTF8&iwloc=&output=embed",
+    "descriptor_tags": [
+      "private-university",
+      "suburban-campus",
+      "coastal-campus",
+      "beautiful-campus",
+      "politically-conservative",
+      "study-abroad-popular",
+      "medium-school",
+      "west-coast-vibe"
+    ],
+    "questbridge_partner": false,
+    "logo_link": "https://logo.clearbit.com/pepperdine.edu"
+  },
+  {
+    "name": "Syracuse University",
+    "location": "Syracuse, New York",
+    "founding_date": 1870,
+    "website": "https://www.syracuse.edu/",
+    "community_reviews": {
+      "rating": "4.1/5",
+      "text": "Syracuse bleeds orange. School spirit is huge, especially for basketball and football. The Newhouse School for communications is elite. The weather is notoriously snowy, but students embrace it. The social scene is very active."
+    },
+    "trusted_source_reviews": {
+      "rating": "4.0/5",
+      "text": "A large private research university known for its immense school spirit and top-ranked programs in communications (Newhouse) and information studies. Syracuse offers a classic big-school experience with strong athletics."
+    },
+    "average_sticker_price": "$85,731",
+    "average_price_after_aid": "$40,371",
+    "distance_from_charlotte_nc": {
+      "miles": 670,
+      "hours_by_car": 10.8
+    },
+    "distance_from_nearest_big_city": {
+      "city": "Syracuse, NY",
+      "miles": 0,
+      "hours_by_car": 0.0
+    },
+    "has_business_school": true,
+    "attractions_near_college": [
+      "JMA Wireless Dome (formerly Carrier Dome)",
+      "Destiny USA shopping mall",
+      "Erie Canal Museum",
+      "Onondaga Lake Park",
+      "Museum of Science & Technology (MOST)",
+      "Finger Lakes wine trails",
+      "Rosamond Gifford Zoo",
+      "Green Lakes State Park"
+    ],
+    "map_embed_link": "https://maps.google.com/maps?q=Syracuse+University&t=&z=13&ie=UTF8&iwloc=&output=embed",
+    "descriptor_tags": [
+      "private-university",
+      "large-school",
+      "urban-campus",
+      "sports-culture",
+      "work-hard-play-hard",
+      "humanities-strong",
+      "east-coast-energy",
+      "vibrant-greek-life"
+    ],
+    "questbridge_partner": false,
+    "logo_link": "https://logo.clearbit.com/syracuse.edu"
+  },
+  {
+    "name": "University of Pittsburgh",
+    "location": "Pittsburgh, Pennsylvania",
+    "founding_date": 1787,
+    "website": "https://www.pitt.edu/",
+    "community_reviews": {
+      "rating": "4.1/5",
+      "text": "Pitt offers a great urban campus experience in a city that's really come alive. The Cathedral of Learning is an iconic centerpiece. Strong pre-med and health sciences programs are a major draw, with close ties to UPMC."
+    },
+    "trusted_source_reviews": {
+      "rating": "4.0/5",
+      "text": "A major public research university renowned for its strengths in philosophy and the health sciences, benefiting from a strong relationship with the University of Pittsburgh Medical Center (UPMC)."
+    },
+    "average_sticker_price": "$57,698",
+    "average_price_after_aid": "$22,504",
+    "distance_from_charlotte_nc": {
+      "miles": 460,
+      "hours_by_car": 7.0
+    },
+    "distance_from_nearest_big_city": {
+      "city": "Pittsburgh, PA",
+      "miles": 0,
+      "hours_by_car": 0.0
+    },
+    "has_business_school": true,
+    "attractions_near_college": [
+      "Cathedral of Learning",
+      "Carnegie Museums of Art and Natural History",
+      "Phipps Conservatory and Botanical Gardens",
+      "Andy Warhol Museum",
+      "PNC Park (Pirates)",
+      "Duquesne Incline",
+      "Schenley Park",
+      "Strip District"
+    ],
+    "map_embed_link": "https://maps.google.com/maps?q=University+of+Pittsburgh&t=&z=13&ie=UTF8&iwloc=&output=embed",
+    "descriptor_tags": [
+      "public-university",
+      "urban-campus",
+      "research-heavy",
+      "pre-med-track",
+      "large-school",
+      "historic-architecture",
+      "sports-culture",
+      "good-value"
+    ],
+    "questbridge_partner": false,
+    "logo_link": "https://logo.clearbit.com/pitt.edu"
+  },
+  {
+    "name": "Clemson University",
+    "location": "Clemson, South Carolina",
+    "founding_date": 1889,
+    "website": "https://www.clemson.edu/",
+    "community_reviews": {
+      "rating": "4.6/5",
+      "text": "School spirit is off the charts, with a passionate fan base for its championship-level football team. The 'Clemson Family' is real—students describe a friendly, supportive, and tight-knit community. The lakeside setting is beautiful."
+    },
+    "trusted_source_reviews": {
+      "rating": "4.1/5",
+      "text": "A top public university with strong programs in engineering, agriculture, and architecture. Clemson is known for its incredible school spirit, beautiful campus on Lake Hartwell, and a powerful sense of community."
+    },
+    "average_sticker_price": "$58,160",
+    "average_price_after_aid": "$22,624",
+    "distance_from_charlotte_nc": {
+      "miles": 125,
+      "hours_by_car": 2.1
+    },
+    "distance_from_nearest_big_city": {
+      "city": "Greenville, SC",
+      "miles": 30,
+      "hours_by_car": 0.5
+    },
+    "has_business_school": true,
+    "attractions_near_college": [
+      "Memorial Stadium ('Death Valley')",
+      "Lake Hartwell",
+      "South Carolina Botanical Garden",
+      "Downtown Greenville",
+      "Blue Ridge Mountains",
+      "Issaqueena Falls",
+      "Chattooga River for rafting",
+      "Paris Mountain State Park"
+    ],
+    "map_embed_link": "https://maps.google.com/maps?q=Clemson+University&t=&z=13&ie=UTF8&iwloc=&output=embed",
+    "descriptor_tags": [
+      "public-university",
+      "college-town",
+      "large-school",
+      "sports-culture",
+      "beautiful-campus",
+      "southern-charm",
+      "engineering-powerhouse",
+      "vibrant-greek-life"
+    ],
+    "questbridge_partner": false,
+    "logo_link": "https://logo.clearbit.com/clemson.edu"
+  },
+  {
+    "name": "Florida State University",
+    "location": "Tallahassee, Florida",
+    "founding_date": 1851,
+    "website": "https://www.fsu.edu/",
+    "community_reviews": {
+      "rating": "4.3/5",
+      "text": "FSU has incredible school spirit and traditions, with a passionate following for its sports teams. The campus is beautiful with its brick architecture. The social scene is very active, especially Greek life. Students are generally friendly and outgoing."
+    },
+    "trusted_source_reviews": {
+      "rating": "4.0/5",
+      "text": "A large public research university known for its top-ranked creative writing program, film school, and strong athletics. FSU offers a vibrant campus life and a great educational value."
+    },
+    "average_sticker_price": "$43,122",
+    "average_price_after_aid": "$12,357",
+    "distance_from_charlotte_nc": {
+      "miles": 450,
+      "hours_by_car": 6.8
+    },
+    "distance_from_nearest_big_city": {
+      "city": "Jacksonville, FL",
+      "miles": 165,
+      "hours_by_car": 2.5
+    },
+    "has_business_school": true,
+    "attractions_near_college": [
+      "Doak Campbell Stadium",
+      "St. Marks National Wildlife Refuge",
+      "Alfred B. Maclay Gardens State Park",
+      "Florida State Capitol",
+      "Mission San Luis",
+      "Tallahassee Museum",
+      "Cascades Park",
+      "Wakulla Springs State Park"
+    ],
+    "map_embed_link": "https://maps.google.com/maps?q=Florida+State+University&t=&z=13&ie=UTF8&iwloc=&output=embed",
+    "descriptor_tags": [
+      "public-university",
+      "large-school",
+      "sports-culture",
+      "vibrant-greek-life",
+      "southern-charm",
+      "beautiful-campus",
+      "good-value",
+      "research-heavy"
+    ],
+    "questbridge_partner": false,
+    "logo_link": "https://logo.clearbit.com/fsu.edu"
+  },
+  {
+    "name": "Virginia Tech",
+    "location": "Blacksburg, Virginia",
+    "founding_date": 1872,
+    "website": "https://vt.edu/",
+    "community_reviews": {
+      "rating": "4.4/5",
+      "text": "Hokies are known for their intense school spirit, strong sense of community ('Ut Prosim' - That I May Serve), and love for their football team. The campus is beautiful with its 'Hokie Stone' architecture. The engineering program is top-notch."
+    },
+    "trusted_source_reviews": {
+      "rating": "4.1/5",
+      "text": "A leading public research university and land-grant institution with premier programs in engineering, architecture, and agriculture. Virginia Tech is known for its strong sense of community and beautiful mountain setting."
+    },
+    "average_sticker_price": "$54,772",
+    "average_price_after_aid": "$19,036",
+    "distance_from_charlotte_nc": {
+      "miles": 150,
+      "hours_by_car": 2.5
+    },
+    "distance_from_nearest_big_city": {
+      "city": "Roanoke, VA",
+      "miles": 40,
+      "hours_by_car": 0.7
+    },
+    "has_business_school": true,
+    "attractions_near_college": [
+      "Lane Stadium",
+      "Cascades Falls Trail",
+      "Hahn Horticulture Garden",
+      "Blue Ridge Parkway",
+      "McAfee Knob hiking trail",
+      "Downtown Blacksburg",
+      "New River for kayaking/tubing",
+      "Moss Arts Center"
+    ],
+    "map_embed_link": "https://maps.google.com/maps?q=Virginia+Tech&t=&z=13&ie=UTF8&iwloc=&output=embed",
+    "descriptor_tags": [
+      "public-university",
+      "large-school",
+      "college-town",
+      "engineering-powerhouse",
+      "sports-culture",
+      "beautiful-campus",
+      "mountain-views",
+      "research-heavy"
+    ],
+    "questbridge_partner": false,
+    "logo_link": "https://logo.clearbit.com/vt.edu"
+  },
+  {
+    "name": "Rutgers University-New Brunswick",
+    "location": "New Brunswick, New Jersey",
+    "founding_date": 1766,
+    "website": "https://www.rutgers.edu/",
+    "community_reviews": {
+      "rating": "3.9/5",
+      "text": "Rutgers is a huge and incredibly diverse university. The campus is spread across several locations connected by buses, which can be a hassle. It offers a great education for the price, with a lively social scene and easy access to NYC."
+    },
+    "trusted_source_reviews": {
+      "rating": "4.0/5",
+      "text": "The State University of New Jersey, Rutgers is a 'Public Ivy' and a major public research university. It is known for its diverse student body, strong liberal arts and sciences programs, and proximity to New York City."
+    },
+    "average_sticker_price": "$56,537",
+    "average_price_after_aid": "$17,835",
+    "distance_from_charlotte_nc": {
+      "miles": 600,
+      "hours_by_car": 9.5
+    },
+    "distance_from_nearest_big_city": {
+      "city": "New York, NY",
+      "miles": 38,
+      "hours_by_car": 1.0
+    },
+    "has_business_school": true,
+    "attractions_near_college": [
+      "New York City attractions",
+      "Princeton University campus",
+      "Grounds For Sculpture",
+      "Zimmerli Art Museum",
+      "State Theatre New Jersey",
+      "Delaware and Raritan Canal State Park",
+      "Jersey Shore beaches",
+      "Six Flags Great Adventure"
+    ],
+    "map_embed_link": "https://maps.google.com/maps?q=Rutgers+University-New+Brunswick&t=&z=13&ie=UTF8&iwloc=&output=embed",
+    "descriptor_tags": [
+      "public-university",
+      "large-school",
+      "public-ivy",
+      "research-heavy",
+      "diverse-student-body",
+      "suburban-campus",
+      "good-value",
+      "sports-culture"
+    ],
+    "questbridge_partner": false,
+    "logo_link": "https://logo.clearbit.com/rutgers.edu"
+  },
+  {
+    "name": "George Washington University",
+    "location": "Washington, D.C.",
+    "founding_date": 1821,
+    "website": "https://www.gwu.edu/",
+    "community_reviews": {
+      "rating": "3.8/5",
+      "text": "The location is everything. Students are politically aware, ambitious, and internship-focused. The campus is woven into the fabric of downtown D.C., just blocks from the White House. It's an exciting but expensive place to be a student."
+    },
+    "trusted_source_reviews": {
+      "rating": "3.9/5",
+      "text": "A large private university with an unparalleled location for students interested in politics, international affairs, and law. GW offers incredible access to internships at government agencies, NGOs, and global institutions."
+    },
+    "average_sticker_price": "$86,410",
+    "average_price_after_aid": "$35,511",
+    "distance_from_charlotte_nc": {
+      "miles": 400,
+      "hours_by_car": 6.5
+    },
+    "distance_from_nearest_big_city": {
+      "city": "Washington, D.C.",
+      "miles": 0,
+      "hours_by_car": 0.0
+    },
+    "has_business_school": true,
+    "attractions_near_college": [
+      "The White House",
+      "The National Mall",
+      "Lincoln Memorial",
+      "World Bank and IMF headquarters",
+      "Kennedy Center for the Performing Arts",
+      "Smithsonian Museums",
+      "U.S. Capitol",
+      "National Archives Museum"
+    ],
+    "map_embed_link": "https://maps.google.com/maps?q=George+Washington+University&t=&z=13&ie=UTF8&iwloc=&output=embed",
+    "descriptor_tags": [
+      "private-university",
+      "urban-campus",
+      "large-school",
+      "politically-active",
+      "international-focus",
+      "east-coast-energy",
+      "humanities-strong",
+      "research-heavy"
+    ],
+    "questbridge_partner": false,
+    "logo_link": "https://logo.clearbit.com/gwu.edu"
+  },
+  {
+    "name": "Worcester Polytechnic Institute",
+    "location": "Worcester, Massachusetts",
+    "founding_date": 1865,
+    "website": "https://www.wpi.edu/",
+    "community_reviews": {
+      "rating": "4.1/5",
+      "text": "The project-based curriculum is the standout feature. Students are hands-on, collaborative, and passionate about STEM. The fast-paced 7-week terms keep things intense. It's a nerdy and friendly community."
+    },
+    "trusted_source_reviews": {
+      "rating": "4.1/5",
+      "text": "A private technological university renowned for its innovative, project-based curriculum. WPI focuses on theory and practice, requiring students to complete major research projects, often at global project centers."
+    },
+    "average_sticker_price": "$78,392",
+    "average_price_after_aid": "$45,738",
+    "distance_from_charlotte_nc": {
+      "miles": 800,
+      "hours_by_car": 12.5
+    },
+    "distance_from_nearest_big_city": {
+      "city": "Boston, MA",
+      "miles": 45,
+      "hours_by_car": 1.0
+    },
+    "has_business_school": true,
+    "attractions_near_college": [
+      "Worcester Art Museum",
+      "EcoTarium museum of science and nature",
+      "DCU Center",
+      "The Hanover Theatre for the Performing Arts",
+      "Old Sturbridge Village",
+      "Wachusett Mountain Ski Area",
+      "Purgatory Chasm State Reservation",
+      "Boston city attractions"
+    ],
+    "map_embed_link": "https://maps.google.com/maps?q=Worcester+Polytechnic+Institute&t=&z=13&ie=UTF8&iwloc=&output=embed",
+    "descriptor_tags": [
+      "private-university",
+      "technical-institute",
+      "stem-focused",
+      "engineering-powerhouse",
+      "co-op-program",
+      "study-abroad-popular",
+      "collaborative-environment",
+      "urban-campus"
+    ],
+    "questbridge_partner": false,
+    "logo_link": "https://logo.clearbit.com/wpi.edu"
+  },
+  {
+    "name": "Fordham University",
+    "location": "Bronx, New York",
+    "founding_date": 1841,
+    "website": "https://www.fordham.edu/",
+    "community_reviews": {
+      "rating": "3.9/5",
+      "text": "Fordham offers two distinct experiences: a traditional Gothic campus at Rose Hill in the Bronx, and a modern, urban campus at Lincoln Center in Manhattan. The Jesuit tradition emphasizes a well-rounded education and social justice. Students take full advantage of NYC."
+    },
+    "trusted_source_reviews": {
+      "rating": "3.9/5",
+      "text": "The Jesuit University of New York, Fordham is known for its strong liberal arts core curriculum, business school (Gabelli), and two distinct campuses that provide students with diverse NYC experiences."
+    },
+    "average_sticker_price": "$85,341",
+    "average_price_after_aid": "$40,323",
+    "distance_from_charlotte_nc": {
+      "miles": 650,
+      "hours_by_car": 10.2
+    },
+    "distance_from_nearest_big_city": {
+      "city": "New York, NY",
+      "miles": 0,
+      "hours_by_car": 0.0
+    },
+    "has_business_school": true,
+    "attractions_near_college": [
+      "Bronx Zoo",
+      "New York Botanical Garden",
+      "Yankee Stadium",
+      "Central Park (from Lincoln Center campus)",
+      "Broadway Theatres (from Lincoln Center campus)",
+      "Arthur Avenue (Little Italy of the Bronx)",
+      "Van Cortlandt Park",
+      "The Cloisters"
+    ],
+    "map_embed_link": "https://maps.google.com/maps?q=Fordham+University&t=&z=13&ie=UTF8&iwloc=&output=embed",
+    "descriptor_tags": [
+      "private-university",
+      "urban-campus",
+      "catholic-university",
+      "liberal-arts",
+      "beautiful-campus",
+      "business-focused",
+      "east-coast-energy",
+      "large-school"
+    ],
+    "questbridge_partner": false,
+    "logo_link": "https://logo.clearbit.com/fordham.edu"
+  },
+  {
+    "name": "Southern Methodist University",
+    "location": "Dallas, Texas",
+    "founding_date": 1911,
+    "website": "https://www.smu.edu/",
+    "community_reviews": {
+      "rating": "4.0/5",
+      "text": "SMU has a reputation for being preppy and career-focused, with a strong Greek life presence. The campus is beautiful, and the location in affluent University Park provides great connections to the Dallas business community."
+    },
+    "trusted_source_reviews": {
+      "rating": "3.9/5",
+      "text": "A private university located in the heart of Dallas, SMU is known for its excellent Cox School of Business. It offers strong networking opportunities within the vibrant Dallas-Fort Worth metroplex."
+    },
+    "average_sticker_price": "$84,171",
+    "average_price_after_aid": "$42,738",
+    "distance_from_charlotte_nc": {
+      "miles": 940,
+      "hours_by_car": 14.0
+    },
+    "distance_from_nearest_big_city": {
+      "city": "Dallas, TX",
+      "miles": 0,
+      "hours_by_car": 0.0
+    },
+    "has_business_school": true,
+    "attractions_near_college": [
+      "George W. Bush Presidential Center",
+      "Klyde Warren Park",
+      "Dallas Museum of Art",
+      "The Dallas World Aquarium",
+      "AT&T Stadium (Cowboys)",
+      "Deep Ellum entertainment district",
+      "Dallas Arboretum and Botanical Garden",
+      "Perot Museum of Nature and Science"
+    ],
+    "map_embed_link": "https://maps.google.com/maps?q=Southern+Methodist+University&t=&z=13&ie=UTF8&iwloc=&output=embed",
+    "descriptor_tags": [
+      "private-university",
+      "suburban-campus",
+      "business-focused",
+      "vibrant-greek-life",
+      "beautiful-campus",
+      "sports-culture",
+      "medium-school",
+      "work-hard-play-hard"
+    ],
+    "questbridge_partner": false,
+    "logo_link": "https://logo.clearbit.com/smu.edu"
+  },
+  {
+    "name": "American University",
+    "location": "Washington, D.C.",
+    "founding_date": 1893,
+    "website": "https://www.american.edu/",
+    "community_reviews": {
+      "rating": "3.8/5",
+      "text": "The student body is extremely politically active and passionate about social change. The location provides endless opportunities for internships in government and non-profits. The campus is a beautiful, contained arboretum in a residential part of D.C."
+    },
+    "trusted_source_reviews": {
+      "rating": "3.8/5",
+      "text": "Located in the nation's capital, American University is a top choice for students passionate about public affairs, international service, and communication. It is known for having the most politically active students in the country."
+    },
+    "average_sticker_price": "$76,967",
+    "average_price_after_aid": "$38,429",
+    "distance_from_charlotte_nc": {
+      "miles": 400,
+      "hours_by_car": 6.5
+    },
+    "distance_from_nearest_big_city": {
+      "city": "Washington, D.C.",
+      "miles": 0,
+      "hours_by_car": 0.0
+    },
+    "has_business_school": true,
+    "attractions_near_college": [
+      "The National Mall",
+      "Smithsonian Museums",
+      "The White House",
+      "U.S. Capitol",
+      "National Cathedral",
+      "Georgetown neighborhood",
+      "Kennedy Center",
+      "International Spy Museum"
+    ],
+    "map_embed_link": "https://maps.google.com/maps?q=American+University&t=&z=13&ie=UTF8&iwloc=&output=embed",
+    "descriptor_tags": [
+      "private-university",
+      "suburban-campus",
+      "politically-active",
+      "international-focus",
+      "politically-liberal",
+      "beautiful-campus",
+      "medium-school",
+      "humanities-strong"
+    ],
+    "questbridge_partner": false,
+    "logo_link": "https://logo.clearbit.com/american.edu"
+  },
+  {
+    "name": "Baylor University",
+    "location": "Waco, Texas",
+    "founding_date": 1845,
+    "website": "https://www.baylor.edu/",
+    "community_reviews": {
+      "rating": "4.2/5",
+      "text": "The Christian faith is central to the Baylor identity, creating a strong and welcoming community. School spirit is huge, and traditions are a big part of campus life. Students are friendly, and there's a growing 'work hard, play hard' vibe."
+    },
+    "trusted_source_reviews": {
+      "rating": "3.8/5",
+      "text": "The world's largest Baptist university, Baylor is a private Christian institution known for its strong school spirit and a growing reputation as a national research university. It excels in health sciences and business."
+    },
+    "average_sticker_price": "$74,868",
+    "average_price_after_aid": "$37,130",
+    "distance_from_charlotte_nc": {
+      "miles": 1050,
+      "hours_by_car": 15.5
+    },
+    "distance_from_nearest_big_city": {
+      "city": "Dallas, TX",
+      "miles": 97,
+      "hours_by_car": 1.5
+    },
+    "has_business_school": true,
+    "attractions_near_college": [
+      "Magnolia Market at the Silos",
+      "Dr Pepper Museum",
+      "Waco Mammoth National Monument",
+      "Cameron Park Zoo",
+      "Texas Ranger Hall of Fame and Museum",
+      "Lake Waco",
+      "Waco Suspension Bridge",
+      "McLane Stadium"
+    ],
+    "map_embed_link": "https://maps.google.com/maps?q=Baylor+University&t=&z=13&ie=UTF8&iwloc=&output=embed",
+    "descriptor_tags": [
+      "private-university",
+      "college-town",
+      "sports-culture",
+      "vibrant-greek-life",
+      "politically-conservative",
+      "christian-university",
+      "beautiful-campus",
+      "large-school"
+    ],
+    "questbridge_partner": false,
+    "logo_link": "https://logo.clearbit.com/baylor.edu"
+  },
+  {
+    "name": "University of Connecticut",
+    "location": "Storrs, Connecticut",
+    "founding_date": 1881,
+    "website": "https://uconn.edu/",
+    "community_reviews": {
+      "rating": "4.0/5",
+      "text": "UConn basketball is legendary, and school spirit is a huge part of the experience. The rural campus can feel isolated, but it fosters a strong on-campus community. It's a large school with a wide variety of programs and a growing academic reputation."
+    },
+    "trusted_source_reviews": {
+      "rating": "3.9/5",
+      "text": "The flagship public university in Connecticut, UConn is a 'Public Ivy' known for its powerhouse basketball programs and strong academics in business, education, and pharmacy. It offers great value for a top research university."
+    },
+    "average_sticker_price": "$61,006",
+    "average_price_after_aid": "$21,420",
+    "distance_from_charlotte_nc": {
+      "miles": 700,
+      "hours_by_car": 11.0
+    },
+    "distance_from_nearest_big_city": {
+      "city": "Hartford, CT",
+      "miles": 27,
+      "hours_by_car": 0.5
+    },
+    "has_business_school": true,
+    "attractions_near_college": [
+      "UConn Dairy Bar",
+      "Ballard Institute and Museum of Puppetry",
+      "William Benton Museum of Art",
+      "Mark Twain House & Museum (Hartford)",
+      "Wadsworth Atheneum Museum of Art (Hartford)",
+      "Mystic Seaport Museum",
+      "Mohegan Sun Casino",
+      "Gampel Pavilion"
+    ],
+    "map_embed_link": "https://maps.google.com/maps?q=University+of+Connecticut&t=&z=13&ie=UTF8&iwloc=&output=embed",
+    "descriptor_tags": [
+      "public-university",
+      "large-school",
+      "rural-campus",
+      "sports-culture",
+      "research-heavy",
+      "public-ivy",
+      "good-value",
+      "east-coast-energy"
+    ],
+    "questbridge_partner": false,
+    "logo_link": "https://logo.clearbit.com/uconn.edu"
+  },
+  {
+    "name": "Indiana University Bloomington",
+    "location": "Bloomington, Indiana",
+    "founding_date": 1820,
+    "website": "https://www.iu.edu/bloomington/",
+    "community_reviews": {
+      "rating": "4.2/5",
+      "text": "Students consistently praise the stunningly beautiful campus and the vibrant college town atmosphere. The Jacobs School of Music and Kelley School of Business are world-class. There's a lively arts scene and a 'work hard, play hard' culture."
+    },
+    "trusted_source_reviews": {
+      "rating": "3.9/5",
+      "text": "A 'Public Ivy' known for its beautiful campus and top-tier programs in business (Kelley), music (Jacobs), and public and environmental affairs. IU offers a rich campus life in a classic college town."
+    },
+    "average_sticker_price": "$53,853",
+    "average_price_after_aid": "$15,201",
+    "distance_from_charlotte_nc": {
+      "miles": 500,
+      "hours_by_car": 8.0
+    },
+    "distance_from_nearest_big_city": {
+      "city": "Indianapolis, IN",
+      "miles": 52,
+      "hours_by_car": 1.0
+    },
+    "has_business_school": true,
+    "attractions_near_college": [
+      "Eskenazi Museum of Art",
+      "Lilly Library",
+      "Hoosier National Forest",
+      "Lake Monroe",
+      "Brown County State Park",
+      "Oliver Winery",
+      "Kirkwood Avenue",
+      "Buskirk-Chumley Theater"
+    ],
+    "map_embed_link": "https://maps.google.com/maps?q=Indiana+University+Bloomington&t=&z=13&ie=UTF8&iwloc=&output=embed",
+    "descriptor_tags": [
+      "public-university",
+      "large-school",
+      "college-town",
+      "beautiful-campus",
+      "artsy-vibe",
+      "business-focused",
+      "sports-culture",
+      "vibrant-greek-life"
+    ],
+    "questbridge_partner": false,
+    "logo_link": "https://logo.clearbit.com/iu.edu"
+  },
+  {
+    "name": "Pennsylvania State University",
+    "location": "University Park, Pennsylvania",
+    "founding_date": 1855,
+    "website": "https://www.psu.edu/",
+    "community_reviews": {
+      "rating": "4.2/5",
+      "text": "WE ARE... PENN STATE. The school spirit is legendary, centered around football in a massive stadium. The alumni network is huge and very active. State College is the definition of a college town. The culture is spirited, social, and proud."
+    },
+    "trusted_source_reviews": {
+      "rating": "4.0/5",
+      "text": "A top public research university with a massive, loyal alumni network. Penn State is known for its excellent engineering and business programs, spirited athletic culture, and its idyllic 'Happy Valley' setting."
+    },
+    "average_sticker_price": "$55,750",
+    "average_price_after_aid": "$21,180",
+    "distance_from_charlotte_nc": {
+      "miles": 460,
+      "hours_by_car": 7.5
+    },
+    "distance_from_nearest_big_city": {
+      "city": "Pittsburgh, PA",
+      "miles": 138,
+      "hours_by_car": 2.5
+    },
+    "has_business_school": true,
+    "attractions_near_college": [
+      "Beaver Stadium",
+      "Penn's Cave & Wildlife Park",
+      "Palmer Museum of Art",
+      "The Arboretum at Penn State",
+      "Berkey Creamery",
+      "Mount Nittany hiking trail",
+      "Bryce Jordan Center",
+      "Rothrock State Forest"
+    ],
+    "map_embed_link": "https://maps.google.com/maps?q=Pennsylvania+State+University&t=&z=13&ie=UTF8&iwloc=&output=embed",
+    "descriptor_tags": [
+      "public-university",
+      "large-school",
+      "college-town",
+      "sports-culture",
+      "research-heavy",
+      "vibrant-greek-life",
+      "engineering-powerhouse",
+      "rural-campus"
+    ],
+    "questbridge_partner": false,
+    "logo_link": "https://logo.clearbit.com/psu.edu"
+  },
+  {
+    "name": "Michigan State University",
+    "location": "East Lansing, Michigan",
+    "founding_date": 1855,
+    "website": "https://msu.edu/",
+    "community_reviews": {
+      "rating": "4.2/5",
+      "text": "MSU has a sprawling, beautiful park-like campus and a classic Big Ten feel. Students are friendly and spirited. The school offers a huge variety of majors, and programs like supply chain management and education are top-ranked."
+    },
+    "trusted_source_reviews": {
+      "rating": "3.9/5",
+      "text": "A pioneer land-grant university and a major public research institution. Michigan State is known for its beautiful campus, top programs in supply chain management, hospitality, and education, and a strong sense of community."
+    },
+    "average_sticker_price": "$52,982",
+    "average_price_after_aid": "$16,655",
+    "distance_from_charlotte_nc": {
+      "miles": 650,
+      "hours_by_car": 10.0
+    },
+    "distance_from_nearest_big_city": {
+      "city": "Detroit, MI",
+      "miles": 90,
+      "hours_by_car": 1.5
+    },
+    "has_business_school": true,
+    "attractions_near_college": [
+      "W.J. Beal Botanical Garden",
+      "Eli and Edythe Broad Art Museum",
+      "MSU Museum",
+      "Wharton Center for Performing Arts",
+      "Spartan Stadium",
+      "State Capitol Building (Lansing)",
+      "Impression 5 Science Center (Lansing)",
+      "Potter Park Zoo (Lansing)"
+    ],
+    "map_embed_link": "https://maps.google.com/maps?q=Michigan+State+University&t=&z=13&ie=UTF8&iwloc=&output=embed",
+    "descriptor_tags": [
+      "public-university",
+      "large-school",
+      "college-town",
+      "sports-culture",
+      "beautiful-campus",
+      "research-heavy",
+      "midwest-friendly",
+      "vibrant-greek-life"
+    ],
+    "questbridge_partner": false,
+    "logo_link": "https://logo.clearbit.com/msu.edu"
+  },
+  {
+    "name": "University of Minnesota-Twin Cities",
+    "location": "Minneapolis, Minnesota",
+    "founding_date": 1851,
+    "website": "https://twin-cities.umn.edu/",
+    "community_reviews": {
+      "rating": "4.1/5",
+      "text": "A huge urban university with a vibrant campus life that spans both Minneapolis and St. Paul. Students appreciate the access to city internships and culture. The school is known for being academically strong, especially in health sciences and engineering."
+    },
+    "trusted_source_reviews": {
+      "rating": "3.8/5",
+      "text": "A major public research university located in the heart of a thriving metropolitan area. The University of Minnesota is a leader in chemical engineering, psychology, and health sciences, with strong ties to the region's industries."
+    },
+    "average_sticker_price": "$52,223",
+    "average_price_after_aid": "$16,724",
+    "distance_from_charlotte_nc": {
+      "miles": 1100,
+      "hours_by_car": 16.5
+    },
+    "distance_from_nearest_big_city": {
+      "city": "Minneapolis, MN",
+      "miles": 0,
+      "hours_by_car": 0.0
+    },
+    "has_business_school": true,
+    "attractions_near_college": [
+      "Walker Art Center and Minneapolis Sculpture Garden",
+      "Stone Arch Bridge",
+      "Minnehaha Park and Falls",
+      "U.S. Bank Stadium (Vikings)",
+      "Target Field (Twins)",
+      "Guthrie Theater",
+      "First Avenue music club",
+      "Mall of America"
+    ],
+    "map_embed_link": "https://maps.google.com/maps?q=University+of+Minnesota-Twin+Cities&t=&z=13&ie=UTF8&iwloc=&output=embed",
+    "descriptor_tags": [
+      "public-university",
+      "large-school",
+      "urban-campus",
+      "research-heavy",
+      "midwest-friendly",
+      "sports-culture",
+      "good-value",
+      "stem-focused"
+    ],
+    "questbridge_partner": false,
+    "logo_link": "https://logo.clearbit.com/umn.edu"
+  },
+  {
+    "name": "University of Delaware",
+    "location": "Newark, Delaware",
+    "founding_date": 1743,
+    "website": "https://www.udel.edu/",
+    "community_reviews": {
+      "rating": "4.0/5",
+      "text": "UD has a beautiful, classic collegiate campus and a lively social scene centered on Main Street and Greek life. It feels like a quintessential college experience. Strong programs include chemical engineering and physical therapy."
+    },
+    "trusted_source_reviews": {
+      "rating": "3.8/5",
+      "text": "A 'Public Ivy' with historic roots, the University of Delaware is particularly renowned for its chemical engineering program, thanks to its proximity to DuPont and other chemical companies. It offers a vibrant campus life."
+    },
+    "average_sticker_price": "$54,692",
+    "average_price_after_aid": "$19,753",
+    "distance_from_charlotte_nc": {
+      "miles": 490,
+      "hours_by_car": 8.0
+    },
+    "distance_from_nearest_big_city": {
+      "city": "Philadelphia, PA",
+      "miles": 45,
+      "hours_by_car": 0.8
+    },
+    "has_business_school": true,
+    "attractions_near_college": [
+      "University of Delaware Botanic Gardens",
+      "White Clay Creek State Park",
+      "Winterthur Museum, Garden & Library",
+      "Longwood Gardens",
+      "Delaware Park Racetrack & Casino",
+      "Brandywine Creek State Park",
+      "Hagley Museum and Library",
+      "Baltimore Inner Harbor"
+    ],
+    "map_embed_link": "https://maps.google.com/maps?q=University+of+Delaware&t=&z=13&ie=UTF8&iwloc=&output=embed",
+    "descriptor_tags": [
+      "public-university",
+      "public-ivy",
+      "college-town",
+      "beautiful-campus",
+      "vibrant-greek-life",
+      "large-school",
+      "east-coast-energy",
+      "research-heavy"
+    ],
+    "questbridge_partner": false,
+    "logo_link": "https://logo.clearbit.com/udel.edu"
+  },
+  {
+    "name": "Binghamton University, SUNY",
+    "location": "Binghamton, New York",
+    "founding_date": 1946,
+    "website": "https://www.binghamton.edu/",
+    "community_reviews": {
+      "rating": "4.1/5",
+      "text": "Often called the 'Premier Public Ivy,' Binghamton offers a rigorous, Ivy-level education for a state school price. Students are smart and career-focused. The campus has a nature preserve, but the surrounding city gets mixed reviews."
+    },
+    "trusted_source_reviews": {
+      "rating": "3.9/5",
+      "text": "A top-ranked SUNY school, Binghamton is a 'Public Ivy' that provides an outstanding and affordable education. It is known for its strong liberal arts and management programs and attracts high-achieving students."
+    },
+    "average_sticker_price": "$45,609",
+    "average_price_after_aid": "$18,298",
+    "distance_from_charlotte_nc": {
+      "miles": 600,
+      "hours_by_car": 9.5
+    },
+    "distance_from_nearest_big_city": {
+      "city": "Syracuse, NY",
+      "miles": 76,
+      "hours_by_car": 1.3
+    },
+    "has_business_school": true,
+    "attractions_near_college": [
+      "Binghamton University Nature Preserve",
+      "Roberson Museum and Science Center",
+      "Animal Adventure Park",
+      "The Forum Theatre",
+      "Chenango Valley State Park",
+      "Corning Museum of Glass",
+      "Ithaca and the Finger Lakes",
+      "NYSEG Stadium (Rumble Ponies)"
+    ],
+    "map_embed_link": "https://maps.google.com/maps?q=Binghamton+University,+SUNY&t=&z=13&ie=UTF8&iwloc=&output=embed",
+    "descriptor_tags": [
+      "public-university",
+      "public-ivy",
+      "suburban-campus",
+      "good-value",
+      "research-heavy",
+      "medium-school",
+      "competitive-academics",
+      "beautiful-campus"
+    ],
+    "questbridge_partner": false,
+    "logo_link": "https://logo.clearbit.com/binghamton.edu"
+  },
+  {
+    "name": "Stony Brook University, SUNY",
+    "location": "Stony Brook, New York",
+    "founding_date": 1957,
+    "website": "https://www.stonybrook.edu/",
+    "community_reviews": {
+      "rating": "3.8/5",
+      "text": "A strong research and STEM school, particularly for pre-med, with close ties to Brookhaven National Lab. The campus has a reputation for being a 'suitcase school,' as many students from Long Island and NYC go home on weekends."
+    },
+    "trusted_source_reviews": {
+      "rating": "3.8/5",
+      "text": "A flagship SUNY campus and a member of the prestigious Association of American Universities (AAU). Stony Brook is a major public research university known for its strengths in the health sciences and STEM fields."
+    },
+    "average_sticker_price": "$48,934",
+    "average_price_after_aid": "$16,558",
+    "distance_from_charlotte_nc": {
+      "miles": 690,
+      "hours_by_car": 11.0
+    },
+    "distance_from_nearest_big_city": {
+      "city": "New York, NY",
+      "miles": 60,
+      "hours_by_car": 1.5
+    },
+    "has_business_school": true,
+    "attractions_near_college": [
+      "Stony Brook Village Center",
+      "Avalon Park & Preserve",
+      "Long Island Museum",
+      "West Meadow Beach",
+      "The Hamptons",
+      "Fire Island National Seashore",
+      "Port Jefferson Village",
+      "Splish Splash Water Park"
+    ],
+    "map_embed_link": "https://maps.google.com/maps?q=Stony+Brook+University,+SUNY&t=&z=13&ie=UTF8&iwloc=&output=embed",
+    "descriptor_tags": [
+      "public-university",
+      "large-school",
+      "suburban-campus",
+      "research-heavy",
+      "stem-focused",
+      "pre-med-track",
+      "good-value",
+      "state-of-the-art-labs"
+    ],
+    "questbridge_partner": false,
+    "logo_link": "https://logo.clearbit.com/stonybrook.edu"
+  },
+  {
+    "name": "University of Massachusetts Amherst",
+    "location": "Amherst, Massachusetts",
+    "founding_date": 1863,
+    "website": "https://www.umass.edu/",
+    "community_reviews": {
+      "rating": "4.0/5",
+      "text": "UMass offers a great mix of strong academics, a lively social scene, and a beautiful setting in the Pioneer Valley. The food is consistently rated the best in the country. Being part of the Five College Consortium is a huge academic and social benefit."
+    },
+    "trusted_source_reviews": {
+      "rating": "3.8/5",
+      "text": "The flagship campus of the UMass system, UMass Amherst is a major public research university with top-ranked programs in computer science, linguistics, and food science. It provides great value and diverse opportunities."
+    },
+    "average_sticker_price": "$58,747",
+    "average_price_after_aid": "$22,291",
+    "distance_from_charlotte_nc": {
+      "miles": 790,
+      "hours_by_car": 12.5
+    },
+    "distance_from_nearest_big_city": {
+      "city": "Boston, MA",
+      "miles": 90,
+      "hours_by_car": 1.7
+    },
+    "has_business_school": true,
+    "attractions_near_college": [
+      "Access to Amherst, Smith, Mount Holyoke, and Hampshire campuses",
+      "Downtown Northampton",
+      "Emily Dickinson Museum",
+      "Mount Holyoke Range State Park",
+      "The Eric Carle Museum of Picture Book Art",
+      "Yankee Candle Village",
+      "Basketball Hall of Fame (Springfield)",
+      "Six Flags New England"
+    ],
+    "map_embed_link": "https://maps.google.com/maps?q=University+of+Massachusetts+Amherst&t=&z=13&ie=UTF8&iwloc=&output=embed",
+    "descriptor_tags": [
+      "public-university",
+      "large-school",
+      "college-town",
+      "research-heavy",
+      "liberal-arts",
+      "good-value",
+      "beautiful-campus",
+      "east-coast-energy"
+    ],
+    "questbridge_partner": false,
+    "logo_link": "https://logo.clearbit.com/umass.edu"
+  },
+  {
+    "name": "University of Iowa",
+    "location": "Iowa City, Iowa",
+    "founding_date": 1847,
+    "website": "https://uiowa.edu/",
+    "community_reviews": {
+      "rating": "4.1/5",
+      "text": "Home to the world-famous Iowa Writers' Workshop, the university has a strong creative and literary vibe. Iowa City is a great college town. The campus is split by the Iowa River and has a major hospital complex, making it great for health sciences."
+    },
+    "trusted_source_reviews": {
+      "rating": "3.7/5",
+      "text": "A major public research university best known for its prestigious Iowa Writers' Workshop and top-ranked programs in creative writing, nursing, and health care. It is also a 'Public Ivy'."
+    },
+    "average_sticker_price": "$50,835",
+    "average_price_after_aid": "$17,452",
+    "distance_from_charlotte_nc": {
+      "miles": 870,
+      "hours_by_car": 13.0
+    },
+    "distance_from_nearest_big_city": {
+      "city": "Des Moines, IA",
+      "miles": 114,
+      "hours_by_car": 1.8
+    },
+    "has_business_school": true,
+    "attractions_near_college": [
+      "Kinnick Stadium",
+      "Old Capitol Museum",
+      "Herbert Hoover Presidential Library and Museum",
+      "Amana Colonies",
+      "Devonian Fossil Gorge",
+      "Lake Macbride State Park",
+      "Iowa City Ped Mall",
+      "Hancher Auditorium"
+    ],
+    "map_embed_link": "https://maps.google.com/maps?q=University+of+Iowa&t=&z=13&ie=UTF8&iwloc=&output=embed",
+    "descriptor_tags": [
+      "public-university",
+      "large-school",
+      "college-town",
+      "artsy-vibe",
+      "humanities-strong",
+      "research-heavy",
+      "midwest-friendly",
+      "sports-culture"
+    ],
+    "questbridge_partner": false,
+    "logo_link": "https://logo.clearbit.com/uiowa.edu"
+  },
+  {
+    "name": "Colorado School of Mines",
+    "location": "Golden, Colorado",
+    "founding_date": 1874,
+    "website": "https://www.mines.edu/",
+    "community_reviews": {
+      "rating": "4.0/5",
+      "text": "A rigorous, no-nonsense engineering school for students passionate about earth, energy, and the environment. The student body is smart, outdoorsy, and focused. The location at the foothills of the Rockies is perfect for hiking, skiing, and climbing."
+    },
+    "trusted_source_reviews": {
+      "rating": "4.0/5",
+      "text": "A premier public research university focused on engineering and applied science. 'Mines' is a world leader in fields related to earth sciences, energy, and materials. It offers a specialized and rigorous curriculum."
+    },
+    "average_sticker_price": "$64,748",
+    "average_price_after_aid": "$28,056",
+    "distance_from_charlotte_nc": {
+      "miles": 1580,
+      "hours_by_car": 24.0
+    },
+    "distance_from_nearest_big_city": {
+      "city": "Denver, CO",
+      "miles": 15,
+      "hours_by_car": 0.3
+    },
+    "has_business_school": false,
+    "attractions_near_college": [
+      "Red Rocks Park and Amphitheatre",
+      "Coors Brewery Tour",
+      "Lookout Mountain",
+      "Clear Creek White Water Park",
+      "Rocky Mountain National Park",
+      "Downtown Denver",
+      "Major ski resorts (Vail, Breckenridge)",
+      "Golden Gate Canyon State Park"
+    ],
+    "map_embed_link": "https://maps.google.com/maps?q=Colorado+School+of+Mines&t=&z=13&ie=UTF8&iwloc=&output=embed",
+    "descriptor_tags": [
+      "public-university",
+      "technical-institute",
+      "stem-focused",
+      "engineering-powerhouse",
+      "mountain-views",
+      "small-school",
+      "college-town",
+      "research-heavy"
+    ],
+    "questbridge_partner": false,
+    "logo_link": "https://logo.clearbit.com/mines.edu"
+  },
+  {
+    "name": "Miami University",
+    "location": "Oxford, Ohio",
+    "founding_date": 1809,
+    "website": "https://miamioh.edu/",
+    "community_reviews": {
+      "rating": "4.1/5",
+      "text": "Known for its beautiful red-brick campus and strong focus on undergraduate teaching, giving it a 'Public Ivy' feel. The student body has a reputation for being preppy and Midwestern. Greek life is a dominant part of the social scene."
+    },
+    "trusted_source_reviews": {
+      "rating": "3.8/5",
+      "text": "An original 'Public Ivy,' Miami University is renowned for its beautiful campus and exceptional commitment to undergraduate education. It provides a private school atmosphere at a public school price."
+    },
+    "average_sticker_price": "$52,246",
+    "average_price_after_aid": "$23,714",
+    "distance_from_charlotte_nc": {
+      "miles": 460,
+      "hours_by_car": 7.0
+    },
+    "distance_from_nearest_big_city": {
+      "city": "Cincinnati, OH",
+      "miles": 35,
+      "hours_by_car": 0.7
+    },
+    "has_business_school": true,
+    "attractions_near_college": [
+      "Hueston Woods State Park",
+      "Uptown Oxford bars and shops",
+      "Yager Stadium",
+      "Cincinnati Zoo & Botanical Garden",
+      "Great American Ball Park (Reds)",
+      "National Underground Railroad Freedom Center",
+      "Kings Island amusement park",
+      "Cincinnati Museum Center"
+    ],
+    "map_embed_link": "https://maps.google.com/maps?q=Miami+University&t=&z=13&ie=UTF8&iwloc=&output=embed",
+    "descriptor_tags": [
+      "public-university",
+      "public-ivy",
+      "college-town",
+      "beautiful-campus",
+      "vibrant-greek-life",
+      "midwest-friendly",
+      "medium-school",
+      "undergraduate-research"
+    ],
+    "questbridge_partner": false,
+    "logo_link": "https://logo.clearbit.com/miamioh.edu"
+  },
+  {
+    "name": "Rochester Institute of Technology",
+    "location": "Rochester, New York",
+    "founding_date": 1829,
+    "website": "https://www.rit.edu/",
+    "community_reviews": {
+      "rating": "4.0/5",
+      "text": "RIT is known for its excellent co-op program, providing great career preparation. It's a hub for tech, computing, and design. The large Deaf and hard-of-hearing student population makes for a unique and inclusive culture. The vibe is nerdy and hands-on."
+    },
+    "trusted_source_reviews": {
+      "rating": "3.8/5",
+      "text": "A private university focused on career education, RIT is a leader in technology, art, and design. Its cooperative education program is one of the oldest and largest in the nation, and it is home to the National Technical Institute for the Deaf (NTID)."
+    },
+    "average_sticker_price": "$75,762",
+    "average_price_after_aid": "$38,449",
+    "distance_from_charlotte_nc": {
+      "miles": 650,
+      "hours_by_car": 10.5
+    },
+    "distance_from_nearest_big_city": {
+      "city": "Rochester, NY",
+      "miles": 6,
+      "hours_by_car": 0.2
+    },
+    "has_business_school": true,
+    "attractions_near_college": [
+      "The Strong National Museum of Play",
+      "George Eastman Museum",
+      "Highland Park",
+      "Eastman Theatre",
+      "Rochester Museum & Science Center",
+      "Seabreeze Amusement Park",
+      "Finger Lakes wine region",
+      "Letchworth State Park"
+    ],
+    "map_embed_link": "https://maps.google.com/maps?q=Rochester+Institute+of+Technology&t=&z=13&ie=UTF8&iwloc=&output=embed",
+    "descriptor_tags": [
+      "private-university",
+      "technical-institute",
+      "co-op-program",
+      "stem-focused",
+      "arts-and-design",
+      "suburban-campus",
+      "large-school",
+      "modern-facilities"
+    ],
+    "questbridge_partner": false,
+    "logo_link": "https://logo.clearbit.com/rit.edu"
+  },
+  {
+    "name": "Yeshiva University",
+    "location": "New York, New York",
+    "founding_date": 1886,
+    "website": "https://www.yu.edu/",
+    "community_reviews": {
+      "rating": "4.0/5",
+      "text": "Offers a unique dual curriculum combining Jewish studies with a secular academic program. This creates a tight-knit, vibrant Jewish community. The campuses in Washington Heights and Midtown provide different NYC experiences."
+    },
+    "trusted_source_reviews": {
+      "rating": "3.8/5",
+      "text": "The leading Jewish institution for higher education in the U.S., Yeshiva University integrates Jewish learning and values with a broad-based secular education. It has strong programs in business, law, and social work."
+    },
+    "average_sticker_price": "$71,430",
+    "average_price_after_aid": "$22,683",
+    "distance_from_charlotte_nc": {
+      "miles": 650,
+      "hours_by_car": 10.2
+    },
+    "distance_from_nearest_big_city": {
+      "city": "New York, NY",
+      "miles": 0,
+      "hours_by_car": 0.0
+    },
+    "has_business_school": true,
+    "attractions_near_college": [
+      "The Cloisters Museum",
+      "Yankee Stadium",
+      "Apollo Theater",
+      "Central Park",
+      "The Metropolitan Museum of Art",
+      "Times Square",
+      "Empire State Building",
+      "Fort Tryon Park"
+    ],
+    "map_embed_link": "https://maps.google.com/maps?q=Yeshiva+University&t=&z=13&ie=UTF8&iwloc=&output=embed",
+    "descriptor_tags": [
+      "private-university",
+      "urban-campus",
+      "jewish-university",
+      "small-school",
+      "humanities-strong",
+      "east-coast-energy",
+      "collaborative-environment",
+      "research-heavy"
+    ],
+    "questbridge_partner": false,
+    "logo_link": "https://logo.clearbit.com/yu.edu"
+  },
+  {
+    "name": "Stevens Institute of Technology",
+    "location": "Hoboken, New Jersey",
+    "founding_date": 1870,
+    "website": "https://www.stevens.edu/",
+    "community_reviews": {
+      "rating": "3.9/5",
+      "text": "Students praise the stunning views of the Manhattan skyline and the career-focused education. The curriculum is rigorous and tech-oriented. The location in Hoboken is great, offering a fun college-town vibe with instant access to NYC."
+    },
+    "trusted_source_reviews": {
+      "rating": "3.8/5",
+      "text": "A private research university located on the Hudson River with spectacular views of New York City. Stevens is a top school for engineering, computer science, and business, with a strong emphasis on technology and innovation."
+    },
+    "average_sticker_price": "$83,816",
+    "average_price_after_aid": "$42,674",
+    "distance_from_charlotte_nc": {
+      "miles": 640,
+      "hours_by_car": 10.0
+    },
+    "distance_from_nearest_big_city": {
+      "city": "New York, NY",
+      "miles": 4,
+      "hours_by_car": 0.2
+    },
+    "has_business_school": true,
+    "attractions_near_college": [
+      "Manhattan skyline views from Pier A Park",
+      "Hoboken Waterfront Walkway",
+      "Carlo's Bakery (Cake Boss)",
+      "All of New York City's attractions",
+      "Statue of Liberty and Ellis Island",
+      "Liberty Science Center",
+      "MetLife Stadium",
+      "American Dream Mall"
+    ],
+    "map_embed_link": "https://maps.google.com/maps?q=Stevens+Institute+of+Technology&t=&z=13&ie=UTF8&iwloc=&output=embed",
+    "descriptor_tags": [
+      "private-university",
+      "technical-institute",
+      "urban-campus",
+      "stem-focused",
+      "engineering-powerhouse",
+      "beautiful-campus",
+      "east-coast-energy",
+      "research-heavy"
+    ],
+    "questbridge_partner": false,
+    "logo_link": "https://logo.clearbit.com/stevens.edu"
+  },
+  {
+    "name": "University of Arizona",
+    "location": "Tucson, Arizona",
+    "founding_date": 1885,
+    "website": "https://www.arizona.edu/",
+    "community_reviews": {
+      "rating": "4.1/5",
+      "text": "A classic large state school with tons of school spirit ('Bear Down!'), especially for basketball. The weather is amazing, and the campus is beautiful against the mountain backdrop. It's a fun, social school with strong academics."
+    },
+    "trusted_source_reviews": {
+      "rating": "3.7/5",
+      "text": "A major public research university and a leader in astronomy, optics, and planetary sciences, with deep involvement in NASA missions. The University of Arizona offers a spirited campus life in a unique desert setting."
+    },
+    "average_sticker_price": "$55,041",
+    "average_price_after_aid": "$15,620",
+    "distance_from_charlotte_nc": {
+      "miles": 2000,
+      "hours_by_car": 29.0
+    },
+    "distance_from_nearest_big_city": {
+      "city": "Phoenix, AZ",
+      "miles": 115,
+      "hours_by_car": 1.8
+    },
+    "has_business_school": true,
+    "attractions_near_college": [
+      "Saguaro National Park",
+      "Arizona-Sonora Desert Museum",
+      "Mount Lemmon Scenic Byway",
+      "Pima Air & Space Museum",
+      "Mission San Xavier del Bac",
+      "Sabino Canyon Recreation Area",
+      "Kitt Peak National Observatory",
+      "Old Tucson Studios"
+    ],
+    "map_embed_link": "https://maps.google.com/maps?q=University+of+Arizona&t=&z=13&ie=UTF8&iwloc=&output=embed",
+    "descriptor_tags": [
+      "public-university",
+      "large-school",
+      "urban-campus",
+      "sports-culture",
+      "research-heavy",
+      "mountain-views",
+      "vibrant-greek-life",
+      "west-coast-vibe"
+    ],
+    "questbridge_partner": false,
+    "logo_link": "https://logo.clearbit.com/arizona.edu"
+  },
+  {
+    "name": "North Carolina State University",
+    "location": "Raleigh, North Carolina",
+    "founding_date": 1887,
+    "website": "https://www.ncsu.edu/",
+    "community_reviews": {
+      "rating": "4.2/5",
+      "text": "Known as a 'work hard, play hard' school, especially for its top-notch engineering, agriculture, and design programs. The 'Wolfpack' pride is strong. The two distinct campuses (Main and Centennial) offer different vibes. Students are practical and career-focused."
+    },
+    "trusted_source_reviews": {
+      "rating": "3.9/5",
+      "text": "A leading public land-grant university and a powerhouse in STEM fields. NC State is renowned for its College of Engineering, College of Design, and its innovative Centennial Campus, which partners with corporate and government organizations."
+    },
+    "average_sticker_price": "$44,797",
+    "average_price_after_aid": "$14,813",
+    "distance_from_charlotte_nc": {
+      "miles": 165,
+      "hours_by_car": 2.6
+    },
+    "distance_from_nearest_big_city": {
+      "city": "Raleigh, NC",
+      "miles": 0,
+      "hours_by_car": 0.0
+    },
+    "has_business_school": true,
+    "attractions_near_college": [
+      "North Carolina Museum of Natural Sciences",
+      "North Carolina Museum of Art",
+      "PNC Arena (Hurricanes, NC State Basketball)",
+      "JC Raulston Arboretum",
+      "Pullen Park",
+      "State Farmers Market",
+      "Marbles Kids Museum",
+      "Research Triangle Park"
+    ],
+    "map_embed_link": "https://maps.google.com/maps?q=North+Carolina+State+University&t=&z=13&ie=UTF8&iwloc=&output=embed",
+    "descriptor_tags": [
+      "public-university",
+      "large-school",
+      "urban-campus",
+      "stem-focused",
+      "engineering-powerhouse",
+      "research-heavy",
+      "good-value",
+      "southern-charm"
+    ],
+    "questbridge_partner": false,
+    "logo_link": "https://logo.clearbit.com/ncsu.edu"
+  },
+  {
+    "name": "Marquette University",
+    "location": "Milwaukee, Wisconsin",
+    "founding_date": 1881,
+    "website": "https://www.marquette.edu/",
+    "community_reviews": {
+      "rating": "4.0/5",
+      "text": "The Jesuit mission of service and leadership is a big part of the campus culture. Marquette is known for its friendly, down-to-earth student body and strong sense of community. Basketball is a huge deal here. The urban campus is integrated into Milwaukee."
+    },
+    "trusted_source_reviews": {
+      "rating": "3.7/5",
+      "text": "A Catholic, Jesuit university located in Milwaukee, Marquette is known for its strong programs in nursing, physical therapy, and business. It emphasizes service learning and community engagement."
+    },
+    "average_sticker_price": "$66,890",
+    "average_price_after_aid": "$33,129",
+    "distance_from_charlotte_nc": {
+      "miles": 820,
+      "hours_by_car": 12.5
+    },
+    "distance_from_nearest_big_city": {
+      "city": "Milwaukee, WI",
+      "miles": 0,
+      "hours_by_car": 0.0
+    },
+    "has_business_school": true,
+    "attractions_near_college": [
+      "Milwaukee Art Museum",
+      "Harley-Davidson Museum",
+      "Fiserv Forum (Bucks)",
+      "American Family Field (Brewers)",
+      "Historic Third Ward",
+      "Milwaukee Public Market",
+      "Bradford Beach on Lake Michigan",
+      "Pabst Mansion"
+    ],
+    "map_embed_link": "https://maps.google.com/maps?q=Marquette+University&t=&z=13&ie=UTF8&iwloc=&output=embed",
+    "descriptor_tags": [
+      "private-university",
+      "catholic-university",
+      "urban-campus",
+      "sports-culture",
+      "midwest-friendly",
+      "pre-med-track",
+      "medium-school",
+      "research-heavy"
+    ],
+    "questbridge_partner": false,
+    "logo_link": "https://logo.clearbit.com/marquette.edu"
+  },
+  {
+    "name": "University of South Florida",
+    "location": "Tampa, Florida",
+    "founding_date": 1956,
+    "website": "https://www.usf.edu/",
+    "community_reviews": {
+      "rating": "4.0/5",
+      "text": "USF is a large, diverse, and fast-growing research university. Students find it to be a great value, with lots of opportunities for hands-on research. The campus is modern, and the location in Tampa provides access to beaches, sports, and city life."
+    },
+    "trusted_source_reviews": {
+      "rating": "3.7/5",
+      "text": "A major public research university located in the vibrant Tampa Bay area. USF is designated as a Preeminent State Research University by Florida and is a leader in health sciences, business, and sustainability."
+    },
+    "average_sticker_price": "$40,655",
+    "average_price_after_aid": "$11,366",
+    "distance_from_charlotte_nc": {
+      "miles": 540,
+      "hours_by_car": 8.0
+    },
+    "distance_from_nearest_big_city": {
+      "city": "Tampa, FL",
+      "miles": 0,
+      "hours_by_car": 0.0
+    },
+    "has_business_school": true,
+    "attractions_near_college": [
+      "Busch Gardens Tampa Bay",
+      "The Florida Aquarium",
+      "Ybor City Historic District",
+      "Tampa Riverwalk",
+      "Museum of Science & Industry (MOSI)",
+      "Clearwater Beach",
+      "Amalie Arena (Lightning)",
+      "ZooTampa at Lowry Park"
+    ],
+    "map_embed_link": "https://maps.google.com/maps?q=University+of+South+Florida&t=&z=13&ie=UTF8&iwloc=&output=embed",
+    "descriptor_tags": [
+      "public-university",
+      "large-school",
+      "urban-campus",
+      "research-heavy",
+      "diverse-student-body",
+      "good-value",
+      "modern-facilities",
+      "southern-charm"
+    ],
+    "questbridge_partner": false,
+    "logo_link": "https://logo.clearbit.com/usf.edu"
+  },
+  {
+    "name": "University of Tennessee",
+    "location": "Knoxville, Tennessee",
+    "founding_date": 1794,
+    "website": "https://www.utk.edu/",
+    "community_reviews": {
+      "rating": "4.2/5",
+      "text": "Bleeding orange is a way of life at UT. The school spirit for the 'Vols' is incredible. It's a large school with a friendly, southern vibe. Greek life is big, and the location near the Great Smoky Mountains is a huge plus for outdoorsy students."
+    },
+    "trusted_source_reviews": {
+      "rating": "3.7/5",
+      "text": "The flagship public university of Tennessee, UT Knoxville is a major research institution with strong programs in supply chain management, nuclear engineering, and business. It's known for its immense school pride and traditions."
+    },
+    "average_sticker_price": "$49,898",
+    "average_price_after_aid": "$19,150",
+    "distance_from_charlotte_nc": {
+      "miles": 230,
+      "hours_by_car": 3.7
+    },
+    "distance_from_nearest_big_city": {
+      "city": "Knoxville, TN",
+      "miles": 0,
+      "hours_by_car": 0.0
+    },
+    "has_business_school": true,
+    "attractions_near_college": [
+      "Great Smoky Mountains National Park",
+      "Neyland Stadium",
+      "Market Square",
+      "Sunsphere",
+      "Tennessee Theatre",
+      "Ijams Nature Center",
+      "Dollywood (Pigeon Forge)",
+      "Gatlinburg"
+    ],
+    "map_embed_link": "https://maps.google.com/maps?q=University+of+Tennessee,+Knoxville&t=&z=13&ie=UTF8&iwloc=&output=embed",
+    "descriptor_tags": [
+      "public-university",
+      "large-school",
+      "college-town",
+      "sports-culture",
+      "vibrant-greek-life",
+      "southern-charm",
+      "mountain-views",
+      "research-heavy"
+    ],
+    "questbridge_partner": false,
+    "logo_link": "https://logo.clearbit.com/utk.edu"
+  },
+  {
+    "name": "Auburn University",
+    "location": "Auburn, Alabama",
+    "founding_date": 1856,
+    "website": "https://www.auburn.edu/",
+    "community_reviews": {
+      "rating": "4.4/5",
+      "text": "The 'Auburn Family' is a powerful, welcoming community. Students are incredibly friendly and spirited ('War Eagle!'). It's a classic SEC school with a great college town atmosphere. Engineering, architecture, and veterinary medicine are top programs."
+    },
+    "trusted_source_reviews": {
+      "rating": "3.8/5",
+      "text": "A large public land-grant university, Auburn is known for its strong school spirit, friendly campus culture, and excellent programs in engineering, business, and agriculture. The 'Auburn Creed' emphasizes hard work and character."
+    },
+    "average_sticker_price": "$54,952",
+    "average_price_after_aid": "$24,516",
+    "distance_from_charlotte_nc": {
+      "miles": 340,
+      "hours_by_car": 5.0
+    },
+    "distance_from_nearest_big_city": {
+      "city": "Atlanta, GA",
+      "miles": 108,
+      "hours_by_car": 1.6
+    },
+    "has_business_school": true,
+    "attractions_near_college": [
+      "Jordan-Hare Stadium",
+      "Toomer's Corner",
+      "Chewacla State Park",
+      "Jule Collins Smith Museum of Fine Art",
+      "Southeastern Raptor Center",
+      "Callaway Gardens",
+      "U.S. Space & Rocket Center (Huntsville)",
+      "Montgomery (Civil Rights Memorial)"
+    ],
+    "map_embed_link": "https://maps.google.com/maps?q=Auburn+University&t=&z=13&ie=UTF8&iwloc=&output=embed",
+    "descriptor_tags": [
+      "public-university",
+      "large-school",
+      "college-town",
+      "sports-culture",
+      "vibrant-greek-life",
+      "southern-charm",
+      "engineering-powerhouse",
+      "midwest-friendly"
+    ],
+    "questbridge_partner": false,
+    "logo_link": "https://logo.clearbit.com/auburn.edu"
+  },
+  {
+    "name": "University of Oregon",
+    "location": "Eugene, Oregon",
+    "founding_date": 1876,
+    "website": "https://www.uoregon.edu/",
+    "community_reviews": {
+      "rating": "4.1/5",
+      "text": "A beautiful campus in a quirky, outdoorsy city. The ties to Nike are strong, and track and field is huge. Students are generally liberal, environmentally conscious, and active. The atmosphere is laid-back but spirited."
+    },
+    "trusted_source_reviews": {
+      "rating": "3.7/5",
+      "text": "A public flagship university known for its beautiful campus, powerhouse track and field program, and its ties to Nike. The University of Oregon has strong programs in business, journalism, and sustainable design."
+    },
+    "average_sticker_price": "$56,535",
+    "average_price_after_aid": "$18,480",
+    "distance_from_charlotte_nc": {
+      "miles": 2800,
+      "hours_by_car": 42.0
+    },
+    "distance_from_nearest_big_city": {
+      "city": "Portland, OR",
+      "miles": 110,
+      "hours_by_car": 1.8
+    },
+    "has_business_school": true,
+    "attractions_near_college": [
+      "Hayward Field",
+      "Willamette River bike paths",
+      "Spencer Butte hiking",
+      "Saturday Market",
+      "Oregon Coast (Florence)",
+      "Cascade Mountains (Willamette Pass skiing)",
+      "Crater Lake National Park",
+      "Silver Falls State Park"
+    ],
+    "map_embed_link": "https://maps.google.com/maps?q=University+of+Oregon&t=&z=13&ie=UTF8&iwloc=&output=embed",
+    "descriptor_tags": [
+      "public-university",
+      "large-school",
+      "college-town",
+      "sports-culture",
+      "west-coast-vibe",
+      "beautiful-campus",
+      "politically-liberal",
+      "artsy-vibe"
+    ],
+    "questbridge_partner": false,
+    "logo_link": "https://logo.clearbit.com/uoregon.edu"
+  },
+  {
+    "name": "University of Illinois Chicago",
+    "location": "Chicago, Illinois",
+    "founding_date": 1982,
+    "website": "https://www.uic.edu/",
+    "community_reviews": {
+      "rating": "3.8/5",
+      "text": "UIC is an incredibly diverse, urban campus that serves a large commuter population. It provides great opportunities for students in the Chicago area. The health sciences programs are strong, with a major medical center on campus."
+    },
+    "trusted_source_reviews": {
+      "rating": "3.6/5",
+      "text": "Chicago's largest university, UIC is a major public research institution known for its diverse student body and strong health sciences programs, including the nation's largest medical school."
+    },
+    "average_sticker_price": "$48,779",
+    "average_price_after_aid": "$11,262",
+    "distance_from_charlotte_nc": {
+      "miles": 740,
+      "hours_by_car": 11.3
+    },
+    "distance_from_nearest_big_city": {
+      "city": "Chicago, IL",
+      "miles": 0,
+      "hours_by_car": 0.0
+    },
+    "has_business_school": true,
+    "attractions_near_college": [
+      "Millennium Park",
+      "Art Institute of Chicago",
+      "Willis Tower Skydeck",
+      "Navy Pier",
+      "Shedd Aquarium",
+      "Field Museum",
+      "West Loop restaurant scene",
+      "United Center (Bulls, Blackhawks)"
+    ],
+    "map_embed_link": "https://maps.google.com/maps?q=University+of+Illinois+Chicago&t=&z=13&ie=UTF8&iwloc=&output=embed",
+    "descriptor_tags": [
+      "public-university",
+      "large-school",
+      "urban-campus",
+      "research-heavy",
+      "diverse-student-body",
+      "pre-med-track",
+      "good-value",
+      "commuter-school"
+    ],
+    "questbridge_partner": false,
+    "logo_link": "https://logo.clearbit.com/uic.edu"
+  },
+  {
+    "name": "Arizona State University",
+    "location": "Tempe, Arizona",
+    "founding_date": 1885,
+    "website": "https://www.asu.edu/",
+    "community_reviews": {
+      "rating": "4.1/5",
+      "text": "ASU is massive, innovative, and full of energy. The school spirit is high, and the social scene is very active. It's known for its business school, journalism school, and a commitment to innovation and accessibility. The weather is a huge plus."
+    },
+    "trusted_source_reviews": {
+      "rating": "3.8/5",
+      "text": "Ranked #1 in the U.S. for innovation, ASU is a massive public research university known for its scale, accessibility, and focus on solving global challenges. It has strong programs in business, journalism, and engineering."
+    },
+    "average_sticker_price": "$50,893",
+    "average_price_after_aid": "$14,808",
+    "distance_from_charlotte_nc": {
+      "miles": 2080,
+      "hours_by_car": 30.0
+    },
+    "distance_from_nearest_big_city": {
+      "city": "Phoenix, AZ",
+      "miles": 10,
+      "hours_by_car": 0.2
+    },
+    "has_business_school": true,
+    "attractions_near_college": [
+      "Papago Park (Hole-in-the-Rock)",
+      "Desert Botanical Garden",
+      "Phoenix Zoo",
+      "Old Town Scottsdale",
+      "Tempe Town Lake",
+      "Camelback Mountain hiking",
+      "Chase Field (Diamondbacks)",
+      "Mill Avenue District"
+    ],
+    "map_embed_link": "https://maps.google.com/maps?q=Arizona+State+University&t=&z=13&ie=UTF8&iwloc=&output=embed",
+    "descriptor_tags": [
+      "public-university",
+      "large-school",
+      "urban-campus",
+      "sports-culture",
+      "research-heavy",
+      "west-coast-vibe",
+      "business-focused",
+      "vibrant-greek-life"
+    ],
+    "questbridge_partner": false,
+    "logo_link": "https://logo.clearbit.com/asu.edu"
+  },
+ 
